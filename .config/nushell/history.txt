@@ -1,0 +1,5103 @@
+exit
+nvim
+ls
+cd ..
+ls
+cd axlrnzo/
+cd Desktop/
+cd Rust/
+ls
+ultralist
+pwd
+cd Downloads/
+ls | sort-by size | reverse
+ps
+help commands
+help commands | where name == each | first
+help commands
+help commands | where name == zip | first
+help commands | where name == zip
+help commands | where name == each
+help commands | where name == each | first
+clear
+help commands | where name == each | first | get params
+help -f
+ls
+./Desktop
+cd ..
+cd Downloads/
+sudo dpkg -i tabby-1.0.207-linux-x64.deb
+sudo apt-get install gconf2
+exit
+ls
+ultralist
+ultralist list
+$nu.env-path
+$nu.config-path
+ls
+cd ..
+ls
+cd axlrnzo/
+ls -a
+cd .config
+ls
+cd nushell/
+ls
+nano config.nu
+ls
+ls -a
+touch startup.nu
+nano startup.nu
+exit
+exit
+exit
+ls
+cd Desktop/technium/
+code .
+npm run dev
+^npm run dev
+ls
+cd .config/nushell
+nano config.nu
+echo $nu.env.PATH
+npm --version
+exit
+npm
+exit
+npm
+use std *
+path add /usr/local/bin
+npm
+ls
+cd Desktop/
+ls
+clear
+ls
+cd Desktop/
+cd technium/
+npm run dev
+npm
+exit
+npm
+ls
+npm
+use std *
+path add /usr/local/bin
+npm
+use std *
+path add /usr/local/bin
+npm
+^npm
+ls
+cd .config/nushell
+nano config.nu
+npm
+ls
+cd .config/nushell
+nano config.nu
+npm
+exit
+ls
+nano
+nano config.nu
+exit
+npm
+nu
+nano config.nu
+npm
+nano
+ls
+cd Desktop/technium/
+cd ..
+cd Rust/
+cd soundry/
+kate .
+cd ..
+cd technium/
+npm run dev
+cd ..
+cd Rust/
+cd ante-up/
+code .
+kate .
+ls
+cd Desktop/
+cd Rust/
+ls
+cd rufus
+code .
+cd ..
+cargo new sifisys
+cd sifisys/
+code .
+cd ..
+cd soundry/
+code .
+nano
+exit
+sbcl
+nvim
+ls
+cd Desktop/
+cd technium/
+cd ..
+cd Rust/
+cargo new wesdel
+cd wesdel/
+nvim
+vimtutor
+tutor
+exit
+kate .
+code .
+tutor
+tutor begin
+ls | select name
+tutor tables
+cd ..
+ls
+cd ..
+cd technium/
+git add .
+git commit -m "pushing changes"
+git push
+git remote set-url origin https://github.com/arcnemesys/technium.git
+git push
+git add .
+git commit -m "pushing changes"
+brew install frei0r
+cd ..
+cd Rust/
+cargo new soundry-tui
+cd soundry-tui/
+cargo add comfy-table
+sudo apt install g++ cmake gdb git
+cd ..
+mkdir Cpp
+cd Cpp/
+git clone https://github.com/rdjondo/cplings
+cd cplings/
+mkdir build && cd build
+mkdir build and cd build
+ls
+rm build/
+mkdir build ; cd build
+cmake
+cmake ..
+make
+cd ..
+code .
+make
+cd build/
+make
+cd ..
+cd Rust/
+cd soundry
+ls -a
+git add .
+git commit -m "init commit"
+git config user.email "accelerenzo@proton.me"
+git config user.name "arcnemesys"
+git commit -m "init commit"
+git push
+git remote add origin https://github.com/arcnemesys/soundry.git<\n>git branch -M main<\n>git push -u origin main
+code .
+clear
+nu
+cd ante-up/
+code .
+tutor cell
+ls | select name
+ls
+ls | select type
+ls -a
+cd .git
+nu tutor
+tutor list
+expr
+tutor expr
+brew install clojure/tools/clojure
+$env
+ps | where cpu > 0 | sort-by cpu | reverse
+sudo add-apt-repository ppa:maveonair/helix-editor<\n>sudo apt update<\n>sudo apt install helix<\n>
+sudo apt install helix
+ls
+cd Desktop/
+cd Rust/
+ls
+cd 100-exercises-to-learn-rust/
+kate .
+wr
+kate .
+wr
+clear
+wr
+wr\
+wr
+rustc --explain E0207
+wr
+WR
+wr
+cd ..
+cat Cargo.toml
+cat Cargo.toml 10
+cat Cargo.toml --10
+cat
+ultralist list
+ultralist add write article on AI/AGI
+ls
+cd src/
+ls
+cd pages/
+ls
+nvim index.astro
+cd ..
+ls
+cd layouts/
+ls
+cd ..
+code .
+ultralist list
+ultralist prioritize 7
+ultralist add signup for planetfitness
+npm i astro-embeds-twitter
+exit
+ls select | name
+ls -h
+cd ..
+ls
+ls -a
+ls | select name
+ls -a
+ls -a | select name
+cd ..
+ls -a | select namew
+ls -a | select name
+ls -a
+touch .xmodmaprc
+exit
+ls 
+ls -a
+cd ..
+ls 
+ls -a
+cd ..
+ls -a
+xkeycap -c
+exit
+ls
+cd Desktop/technium/
+nano ~/.bashrc
+cd ..
+cd Desktop/Rust/
+ls
+cargo new json-tui
+cd json-tui/
+cargo add crossterm ratatui serde --features derive serde-json
+cargo add crossterm ratatui serde-json serde --features derive
+cargo add crossterm ratatui serde-json
+cargo add serde features --derive
+cargo add serde --features derive
+kate .
+cd src
+touch tui.rs
+ultralist add setup rust formatting for neovim
+cd ..
+cd technium/
+npm run dev
+^npm run dev
+exit
+cd ..
+cd Rust/
+cd convit/
+nvim
+kate .
+cd ..
+cargo new convico
+cd convico/
+cd ..
+cd Rust/
+cargo generate https://github.com/ratatui-org/templates component --name convico
+rm -rf -r convico/
+cargo generate https://github.com/ratatui-org/templates component --name convico
+cd convico/
+cd ..
+cd Rust/
+rm -rf -r convico/
+cargo generate https://github.com/ratatui-org/templates simple --name convico
+cd convico/
+cd .. 
+cd Rust/convico/
+touch ui.rs
+touch app.rs
+cargo fmt
+cd ..
+cd technium/
+^npm run dev
+run-external "npm run dev"
+run-external "npm" "run" "dev"
+cd ..
+ls -a
+cd ..
+ls
+ls -a
+config nu
+$nu.config-path
+ls
+pwd
+cd .config/nushell/
+ls
+nano startup.nu
+nano config.nu
+exit
+nano env.nu
+nano config.nu
+npm
+^npm
+run-external "npm"
+path add /home/axlrnzo/.nvm/versions/node/v20.13.1/bin/npm
+use std *
+path add /home/axlrnzo/.nvm/versions/node/v20.13.1/bin/npm
+npm
+npm
+ls
+nano env.nu
+nano env.nu
+npm
+nano startup.nu
+nano config.nu
+ls
+cd ..
+ls
+cd bin/
+ls
+cd ..
+ls
+cd ..
+ls
+cd bin
+ls
+ls | where name > p
+ls flatten
+ls | flatten
+ls | where name = npm
+ls | drop nth 2234..
+npm
+exit
+which npm
+exit
+sudo apt install flatpack
+sudo apt install flatpak
+flatpak install flathub org.wezfurlong.wezterm
+flatpak install flathub org.wezfurlong.wezterm<\n>
+curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+ls
+cd Downloads/
+ls
+sudo dpkg -i hyper_3.4.1_amd64.deb
+cd ..
+cd Applications/
+./affine-0.14.6-stable-linux-x64_a28df17ca0a867590c7aab24b009648e.appimage --no-sandbox --disable-setuid-sandbox
+brew install gleam
+brew install mesa
+cd ..
+cd Desktop/
+cd technium/
+ls
+cd src/
+ls
+cd data
+ls
+cd ..
+cd content/
+ls
+cd blog/
+ls
+brew install gleam
+cd ..
+cd Applications/
+./affine-0.14.6-stable-linux-x64_a28df17ca0a867590c7aab24b009648e.appimage --no-sandbox --disable-setuid-sandbox
+cd ..
+affine
+exit
+./affine-0.14.6-stable-linux-x64_a28df17ca0a867590c7aab24b009648e.appimage --no-sandbox --disable-setuid-sandbox
+cd ~/Desktop
+cd Rust/
+ls
+cd convencom/
+cargo add clap --features derive
+gleam
+cd ..
+cd technium/
+git add .
+git commit -m "pushing up ferrous article, almost fully edited"
+nvim
+cd ..
+cd soundry/
+kate .
+code .
+which liquid-fixpoint
+haskell
+git push
+cd ..
+cd Applications/
+./affine-0.14.6-stable-linux-x64_a28df17ca0a867590c7aab24b009648e.appimage --no-sandbox --disable-setuid-sandbox
+cd ..
+cd Desktop/
+cd Cpp/
+ls
+code .
+make
+cd cplings/
+make
+ls
+make
+cd build
+make
+cd ..
+cd technium/
+quit
+exit
+nvim
+cd ..
+code .
+cd ..
+cd Rust/
+cd 100-exercises-to-learn-rust/
+code .
+wr
+cd ..
+ls
+cd convico/
+ls
+cd src/
+ls
+cd ..
+cd convit/
+ls
+cd src/
+ls
+cd ..
+code .
+cargo add itertools style unicode-width
+cargo add ratatui
+ls
+cd Desktop/Rust/convit
+l
+ls
+ls -a
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Rust/convit
+kate .
+code .
+xinput --list
+xinput --disable 13
+cargo add comfy-table
+cargo add term-table
+cd ..
+ls
+cd convico
+ls
+cat Cargo.toml --10
+cat Cargo.toml
+cat Cargo.toml 10
+tc
+cat
+cat -h
+cat --help
+kate .
+cd ..
+rm -rf -r convencom
+cargo new convencom
+cd convencom/
+cargo add comfy-table
+kate .
+cargo add tui-realm
+cargo add tuirealm
+touch lib.rs
+rm lib.rs
+cd src/
+touch lib.rs
+touch model.rs
+ls
+cd ..
+ls
+cd convico
+ls
+cd src/
+ls
+cd Desktop/Rust/
+ls
+cd convencom/
+cargo add ratatui
+kate .
+cargo run
+cd ..
+cd json-tui/
+cargo run
+kate .
+touch app.rs
+cd ..
+ls
+cd convencom/
+cd src/
+nvim
+cd ..
+cd convit
+ls
+cd src/
+ls
+nvim
+cd ..
+cd convico/
+ls
+cd src/
+ls
+nvim
+cd Desktop/
+cd technium/
+ldd -version
+ldd --version
+cargo install hvm
+cargo install bend-lang
+ambient
+cd ..
+cd Rust/
+cargo new conv-cli
+cd conv-cli/
+cargo add clap --features derive
+cargo add clap-repl
+kate .
+nu
+cargo add reedline
+cargo run
+cd Desktop/
+cd technium/
+npm run dev
+exit
+shutdown -h now
+xinput --disable 13
+cd Desktop/
+cd Rust/
+cd ..
+cd technium/
+cd soundry/
+git branch
+git checkout main
+git add .
+git commit -m "developing parser for header types and refinement types for opcode value ranges"
+git push -u origin nom-parsing
+code .
+nvim
+code .
+sudo apt get update && sudo apt get upgrade
+sudo apt get update and sudo apt get upgrade
+sudo apt-get update and sudo apt-get upgrade
+cd Desktop/
+cd Rust/
+cd soundry/
+code .
+kate .
+code .
+nvim
+code .
+cd Desktop/Rust/soundry/
+code .
+ultralist add continue reading Programming in Lua
+ultralist prioritize 14
+ultralist list
+ultralist delete 10
+ultralist delete 4
+ultralist list
+ultralist delete 8
+ultralist delete 1
+ultralist list
+ultralist
+ultralist status --help
+sudo apt remove indicator-cpufreq
+sudo apt autoclean and sudo apt autoremove
+code .
+cd ..
+ls
+cd Desktop/technium/
+kate .
+code .
+npm run dev
+kate .
+ls
+cd src/
+ls
+cd pages/
+ls
+cd ..
+cd content/
+ls
+cd pages/
+ls
+touch tools.md
+cd ..
+ls
+cd ..
+ls
+nano ~/.bashrc
+cd Desktop/technium/
+l
+ls
+kate .
+cat package.json
+npm i fulldev-ui
+cd ..
+git clone https://github.com/arcnemesys/arcnemesys-blog.git
+cd arcnemesys-blog/
+pnpm run dev
+code .
+kate .
+cd ..
+cd technium/
+kate .
+cd ..
+cd arcnemesys-blog/
+code .
+ls
+cd src/
+ls
+cd data/
+ls
+cd ..
+cd content/
+ls
+cd pages/
+ls
+rm terms.md
+touch tools.md
+cd ..
+kate .
+git status
+ultralist add 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
+ls
+ultralist list
+git add .
+git commit -m "removing terms page, adding tools page"
+git config user.email "accelerenzo@proton.me"
+git config user.name "arcnemesys"
+git commit -m "removing terms page, adding tools page"
+git push
+git checkout -b ui-components
+npx astro add react
+xinput --disable 13
+cd ..
+l
+ls
+cd axlrnzo/
+ls
+ls -a
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+ls
+cd Desktop/Rust/
+cd soundry/
+cd ..
+cd Documents/
+ls
+cd `Rust PDFs/`
+ls
+cd ..
+cd Desktop/Rust/soundry/
+code .
+cd Desktop/Rust/soundry/
+cat Cargo.toml
+code .
+kate .
+git branch
+git add .
+git commit -m "Adding WIP README file."
+git checkout main
+git merge readme
+git add .
+git commit -m "merged in WIP readme, which came with some additional files due to branching off of the nom_parsing branch"
+git push
+kate .
+git add .
+git commit -m "Moving some dev notes to README to clean up main."
+git push
+git add .
+git commit -m "minor change to README"
+git push
+code .
+cd ..
+ls
+cd Frontend/
+ls
+cd technium/
+ls
+code .
+git status
+ultralist add get rice packets and bread
+ultralist list
+ultralist complete 7
+ultralist delete 7
+cd ..
+cd Rust/
+ls
+cd convit
+ls
+cd src/
+ls
+cat app.rs
+cat main.rs
+cd ..
+clippy
+cd ..
+cd Frontend/
+ls
+cd technium/
+npm run dev
+ultralist add attempt to dockerize this when finished
+ultralist addnote --help
+ultralist an 7 https://docs.docker.com/language/rust/configure-ci-cd/
+ultralist --help
+ultralist list --notes
+cd ~/.config/epiphany
+ls
+cd ~/.local/share/epiphany
+ls
+sudo apt-get install libglib2.0-bin
+sudo apt autoclean
+sudo apt autoremove
+gvdb-dump
+sudo apt-get install gvdb convert
+sudo apt-get install gvdb-convert
+sudo apt install python3-gi
+pip
+cd ~/Desktop
+code .
+cat Cargo.toml
+cargo add crossterm ratatui
+cd ~/Desktop/
+cd Rust/convit/
+kate .
+cd ..
+cd Rust/convit/
+kate .
+cd src/
+cd ..
+cat Cargo.toml
+cd src/
+touch ui.rs
+cargo add serde_json serde --features derive
+cargo add serde_json
+cargo add serde --features derive
+cd src/
+cd ..
+cargo new tuijson
+cd tuijson/
+cargo add ratatui crossterm
+cd src/
+touch ui.rs
+touch app.rs
+code .
+cd ..
+code .
+cargo run
+code .
+cargo run
+cd ..
+cd convit
+code .
+cargo add thiserror
+git add .
+git commit -m "default for App & ConventionalCommit, from CommitType and reference for String, from String for CommitType"
+git config user.name "arcnemesys"
+git config user.email "accelerenzo@proton.me"
+git commit -m "default for App & ConventionalCommit, from CommitType and reference for String, from String for CommitType"
+git branch
+cd ..
+ls
+sudo reboot
+cd Desktop/Rust/convit/
+git remote add origin git@github.com:arcnemesys/Convit.git
+git branch -M main
+git push -u origin main
+xinput --disable 13
+cd ..
+cd Frontend/
+cd technium/
+git status
+git add .
+cd ..
+ls -a
+cd ..
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Frontend/technium/
+code .
+kate .
+code .
+git status
+git reset
+git status
+git add .
+git commit -m "Adding tools page and custom tsx components"
+git push
+git branch
+git checkout main
+git merge ui-components
+git add .
+git commit -m "Adding tools page and custom tsx components"
+ultralist list
+git push
+kate .
+git add .
+git commit -m "minor change to nav link title"
+git push
+kate .
+code .
+git add .
+git commit -m "minor changes to footer links"
+git push
+code .
+ls
+cd src/
+ls
+cd content/
+ls
+cd blog/
+ls
+git add hst-daily-routine.md
+git commit -m "minor tweak to content"
+git push
+ls
+cd ..
+cd pages/
+ls
+cd ..
+cd content/
+cd pages/
+ls
+git add tools.mdx
+git commit -m "adding tiny explainer"
+git push
+cd ..
+code .
+git add .
+git commit -m  "adding article on linux"
+git push
+cd content
+ls
+cd src/
+ls
+cd content/
+cd blog/
+ls
+git add abridged-history-linux.md
+git commit -m "chore tweak to excerpt"
+git push
+git add abridged-history-linux.md
+git commit -m "tweaking header sizes"
+git push
+git add abridged-history-linux.md
+git commit -m "minor tweak to wording"
+git push
+cd ..
+cd Rust/soundry
+code .
+cd ..
+cd convit/
+code .
+git branch
+cargo run
+cd src/
+ls
+nvim main.rs
+nvim
+nvim main.rs
+nvim
+cd ..
+code .
+xinput --disable 13
+cd Desktop/Rust/convit
+code .
+cd ..
+ls
+cd relmg/
+ultralist add explore using chatgpt for project management and coming up with a daily workflow
+cd Desktop/Rust/convit
+cargo run
+cd ..
+ls
+ultralist list
+ultralist add attend call about board seat with bsi on the 25th of June
+cd soundry/
+cat Cargo.toml
+cd ..
+cd convit/
+code .
+cargo run
+cd ..
+cargo install --locked yazi-fm yazi-cli
+killall code
+sudo kill -9 $(pgrep Electron)
+cd Rust/convit/
+cargo run
+code .
+cargo run
+xinput --disable 13
+passwd
+ultralist add write article about fuzz testing in Rust
+ultralist list
+ultralist delete 9
+ultralist delete 16
+ultralist list
+ultralist delete 8
+ultralist delete 5
+ultralist list
+cd Desktop/Rust/convit
+code .
+cargo install --locked yazi-fm yazi-cli
+cd ..
+ls -a
+cd .config/nushell/
+ls -a
+nano config.nu
+ls ./themes/nu-themes
+ultralist add start prototyping convenco, the conventional commit company
+ultralist list
+ls
+cd Applications/
+ls
+cd ..
+ls
+cd Downloads/
+ls
+cd AFFiNE-linux-x64/
+ls
+cd ..
+cd Applications/
+ls
+./affine-0.14.6-stable-linux-x64_a28df17ca0a867590c7aab24b009648e.appimage --no-sandbox --disable-setuid-sandbox
+cd ..
+cd Downloads/
+cd ..
+cd Desktop/
+git clone https://github.com/hundredrabbits/Themes.git
+cd Rust/convit/
+cargo run
+cd ..
+ls
+cargo new simpletui
+cd simpletui/
+cargo add ratatui crossterm
+cd src
+l
+ls
+touch app.rs and touch event.rs and touch handler.rs and touch lib.rs and touch tui.rs and touch ui.rs
+ls
+cd ..
+code .
+cargo run
+ls
+cd src/
+ls
+rm event.rs handler.rs ui.rs
+ls
+touch action.rs and cli.rs
+ls
+touch components.rs config.rs
+ls
+touch mode.rs utils.rs
+ls
+rm and
+ls
+mkdir components
+cd components/
+touch fps.rs home.rs
+ls
+cd ..
+code .
+touch rust-toolchain.toml
+touch cargo-generate.toml
+touch build.rs
+touch .envrc
+mkdir .config
+mkdir hooks
+cd hooks
+touch pre-get-repository.rhai
+cd ..
+cd .config/
+touch config.json5
+cd ..
+ls
+touch .rustfmt.toml
+cd hooks/
+ls
+cd ..
+cargo run
+cd ..
+cd convit
+code .
+ls
+cd src/
+ls
+touch event.rs
+touch handler.rs
+touch lib.rs
+touch tui.rs
+cd ..
+cd Frontend/
+cd technium/
+npm run dev
+passwd
+ls
+cd Desktop/
+cd Frontend/
+cd technium/
+npm run dev
+cd ..
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Rust/convit
+code .
+cargo run
+cd Desktop/Rust/convit/
+cargo run
+cd ..
+ls
+cd ..
+> cargo generate ratatui-org/templates component --name convit
+cargo generate ratatui-org/templates component --name convit
+cd convit
+code .
+cd ..
+cd Rust
+cd convit
+cargo run
+code .
+cargo run
+git checkout -b full-rewrite
+cargo run
+clear
+cargo run
+cd convit
+cargo run
+cd ..
+cd soundry
+code .
+cargo run
+cd ..
+cd convit/
+cd ..
+cd Rust/convit/
+cargo run
+cd ..
+cd Frontend/
+cd technium/
+code .
+cd ..
+cd Frontend/
+cd technium/
+npm run dev
+mise
+echo "eval \"\$(/home/axlrnzo/.local/bin/mise activate bash)\"" >> ~/.bashrc
+mise
+ls
+cd ..
+cd .config
+cd ~/.config
+ls
+cd nushell/
+ls
+which mise
+whereis mise
+nano config.nu
+mise
+npm
+ls
+cd ..
+cd ~/.config/nushell/
+nano config.nu
+npm
+curl -s https://ohmyposh.dev/install.sh | bash -s
+brew install jandedobbeleer/oh-my-posh/oh-my-posh
+cd ..
+ls
+cd ~/.config/nushell/
+ls
+nano config.nu
+brew install jandedobbeleer/oh-my-posh/oh-my-posh
+ls
+nano config.nu
+cd ~/.config/nushell/
+nano config.nu
+brew install jandedobbeleer/oh-my-posh/oh-my-posh
+cd ~/.config/nushell/
+nano config.nu
+nano env.nu
+nano config.nu
+cd ~/.config/nushell/
+l
+wls
+ls
+$nu.env-path
+nano env.nu
+nu --v
+nu --version
+nushell --v
+nano env.nu
+cd ~/.config/nushell/
+nano env.nu
+nano config.nu
+nano env.nu
+nano config.nu
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd linuxbrew/
+ls
+ls -a
+cd .linuxbrew/
+ls
+cd bin
+ls
+cd oh-my-posh
+nano ~/.oh-my-posh.nu
+eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/1_shell.omp.json)"
+nano env.nu
+nano ~/.oh-my-posh.nu
+nano env.nu
+nano ~/.oh-my-posh.nu
+nano ~/.bashrc
+nano ~/.zshrc
+ls
+cd ..
+ls
+cd oh-my-posh
+L
+l
+lws
+ls
+cd ..
+ls
+cd bin
+ls
+cd ..
+ls
+ls -a
+ls
+cd axlrnzo/
+cd Desktop/
+ls
+cd .linuxbrew/
+l
+ls
+cd axlrnzo/
+ls
+ls -a
+cd .config/nushell/
+nano config.nu
+nano env.nu
+ls
+cd ..
+cd axlrnzo/
+cd Desktop/
+ls
+eval "$(oh-my-posh init nu --config $(brew --prefix oh-my-posh)/themes/1_shell.omp.json)"
+cd ..
+cd Desktop
+ls
+cd axlrnzo/
+cd Desktop/
+cd ..
+cd Desktop
+cd axlrnzo/
+cd Desktop/
+cd Rust/soundry
+code .
+cd ..
+cd Python/
+ls
+cd viper
+cd ..
+cd Rust
+git clone git@github.com:arcnemesys/rust-advanced-testing-workshop.git
+git checkout -b my-solutions
+cd rust-advanced-testing-workshop/
+git checkout -b my-solutions
+git add .
+git commit -m "init commit"
+git config user.email "accelerenzo@proton.me"
+git config user.name "arcnemesys"
+git add .
+git commit -m "init commit"
+git push
+git push --set-upstream origin my-solutions
+cargo install --path ctr
+code .
+cd .git
+ls
+cd refs
+ls
+git remote add origin git@github.com:arcnemesys/viper-control-system.git<\n>git branch -M main<\n>git push -u origin main
+ls
+git init
+git remote add origin git@github.com:arcnemesys/viper-control-system.git<\n>git branch -M main<\n>git push -u origin main
+git add .
+pwd
+ls
+cd ..
+ls
+clear
+ls
+cd ..
+cd Python/viper/
+ls
+chmod +x viper
+cd ..
+cd viper/
+ls
+cd testrepo/
+ls
+/home/axlrnzo/Desktop/Python/viper/viper init test
+ls
+rm -rf -r test/
+/home/axlrnzo/Desktop/Python/viper/viper init test
+rm -rf -r test/
+/home/axlrnzo/Desktop/Python/viper/viper init test
+rm -rf -r test/
+/home/axlrnzo/Desktop/Python/viper/viper init test
+rm -rf -r test/
+/home/axlrnzo/Desktop/Python/viper/viper init test
+ls
+rm -rf -r test/
+ls
+/home/axlrnzo/Desktop/Python/viper/viper init test
+ls
+rm -rf -r test/
+/home/axlrnzo/Desktop/Python/viper/viper init test
+rm -rf -r test/
+/home/axlrnzo/Desktop/Python/viper/viper init test
+rm -rf -r test/
+/home/axlrnzo/Desktop/Python/viper/viper init test
+/home/axlrnzo/Desktop/Python/viper/viper init test2
+rm -rf -r test/
+rm -rf -r test2
+/home/axlrnzo/Desktop/Python/viper/viper init test
+l
+ls
+cd test/
+ls
+cd ..
+cd Rust
+cd convit/
+code .
+ultralist add design a cashier system in rust
+cd Desktop/Rust/convit/
+cargo run
+cd ..
+cd Applications
+./affine-0.14.6-stable-linux-x64_a28df17ca0a867590c7aab24b009648e.appimage --no-sandbox --disable-setuid-sandbox
+cd ..
+ld
+ls
+cd ~/.local/share
+ls
+cd nvim
+cd ..
+rm -rf -r nvim
+git clone git@github.com:kelvin-van-vuuren/nvim.git ~/.config/nvim --depth 1 && nvim
+git clone git@github.com:kelvin-van-vuuren/nvim.git ~/.config/nvim --depth 1 and nvim
+cd ..
+ls
+cd Desktop/
+cd Python/viper/
+code .
+cd ..
+cd Desktop/
+cd Frontend/
+ls
+cd technium/
+npm run dev
+git branch
+git checkout blog-workshop
+git status
+code .
+ls
+git branch
+git checkout main
+git checkout -b workshopping
+code .
+npm run dev
+code ..
+cd ..
+cd Python/viper/
+code .
+cd ..
+cd Rust
+cd convit
+code .
+cargo run
+clear
+cargo run
+cd src/
+cd ..
+cd Rust
+cd convit
+cd src
+nvim ui.rs
+cd ..
+cargo run
+clear
+cargo run
+code .
+cd ..
+cd Downloads/
+ultralist -h
+ultralist addnote -h
+ultralist list
+ultralist add find blog template with better markdown handling
+sudo dpkg -i roam-research_0.0.21_amd64.deb
+ultralist list finish editing ferrous article
+ultralist add finish editing ferrous article
+ultralist an 9 We have to find a better blog template first
+ultralist list
+ultralist add finish editing ferrous article
+ultralist list
+clear
+ultralist list
+eval "$(oh-my-posh init nu --config $(brew --prefix oh-my-posh)/themes/catpuccin.omp.json)"
+ultralist list
+ultralist delete 10
+ultralist an 9 We have to find a better blog template first
+ultralist list
+alias -h
+alias ultranotes = ultralist list --notes
+ultranotes
+ultralist list
+usermod -l
+ultralist add old PS1 val for bashrc "\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
+cd ..
+cd Desktop/
+echo -h
+cd ~/.config/nushell/
+ls
+nano startup.nu
+nano env.nu
+nano config.nu
+source ~/.bashrc
+cd ..
+ls
+cd ..
+ls
+cd linuxbrew/
+ls
+ls -a
+cd .linuxbrew/
+ls
+cd bin
+ls
+cd oh-my-posh
+nano ~/.oh-my-posh.nu
+exit
+ls
+nano config.nu
+source ~/.config/nushell/config.nu<\n>
+nano config.nu
+source ~/.config/nushell/config.nu<\n>
+nano config.nu
+cd ~/.config/nushell/
+nano config.nu
+ls
+oh-my-posh
+ultralist add grab google course on networking/cybersec
+cd
+cd ..
+cd ~/oh-my-posh/themes
+whereis oh-my-posh
+cd ~/.linuxbrew/bin/oh-my-posh
+sudo apt get update and apt get upgrade
+sudo apt update and apt upgrade
+ls
+cd Downloads/
+sudo dpkg -i roam-research_0.0.21_amd64.deb
+cd ..
+ls
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+ultralist list
+ultralist e 8 design a cashier system in rust @blogging
+ultralist
+ultralist list
+ultralist e 8 +cracked design a cashier system in rust @blogging
+ultralist list
+ultralist e 9 +prolific finish editing ferrous article @blogging
+ultralist e 4 +prolific find blog template with better markdown handling @blogging
+ultralist e 5 +architect prototype ConvenCo, The Conventional Commit Company @foundry
+ultralist list
+ultralist e 10 +certified grab networking/cybersec cert from coursera @jobhunt
+ultralist e 17 +prolific write article about fuzz testing in Rust @blogging
+ultralist e 7 +cracked dockerize Convit @devportfolio
+ultralist list
+ultralist e 3 +cracked finish 100exercises from mainmatter @devlearning
+ultralist e 13 +cracked setup rust formatting for nvim @devtools
+ultralist e 2 +cracked finish reading nushell docs @devtools
+ultralist e 14 +cracked continue reading Programming in Lua @devlearning
+ultralist list
+cd Desktop/
+ultralist list --notes
+touch blogtemplateoptions.txt
+nano blogtemplateoptions.txt
+cd ~/.config/nushell/
+nano config.nu
+config nu
+$nu.config-path
+nano config.nu
+cd ~/.config/nushell/
+nano startup.nu
+touch tailwindstonetheme.txt
+nano tailwindstonetheme.txt
+cd Frontend/
+git clone git@github.com:arcnemesys/arcblog.git
+cd arcblog/
+npm i
+cd ~/Desktop
+cd Frontend/
+cd arcblog/
+code .
+cd ..
+nano tailwindstonetheme.txt
+ultralist complete 4
+ultralist list --notes
+ultralist complete 4
+ultralist list
+cd ..
+cd Rust/soundry/
+cargo run
+git branch
+code .
+ultralist list
+ultralist a +cracked find better lightweight browser @devenvironment
+ls
+cdrc
+ls
+cd src
+ls
+sudo apt install brave-browser
+sudo apt install curl<\n><\n>sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg<\n><\n>echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list<\n><\n>sudo apt update<\n><\n>sudo apt install brave-browser
+cd ..
+cd Downloads/
+sudo dpkg -i vivaldi-stable_6.8.3381.46-1_amd64.deb
+ultralist complete 15
+cd ..
+cd Desktop/
+cd Frontend/
+ls
+cd arcblog/
+code .
+cd ..
+cd Rust/soundry/
+code .
+ultralist delete 11
+ultralist a +cybergrove extract worthwile AFFiNE content into Notesnook @editorial
+ultralist delete 12
+ultralist a +cracked work on python build manager exercises
+ultralist a +cracked read AstroNvim docs @devtools
+cd ~/Desktop
+cd Python/viper/
+code .
+cd ..
+cd Rust/
+ls
+cd convit
+git status
+ultralist list
+cd ..
+cd Applications/
+cd ~/Applications
+./affine-0.14.6-stable-linux-x64_a28df17ca0a867590c7aab24b009648e.appimage --no-sandbox --disable-setuid-sandbox
+cd ..
+cd Desktop/
+ls
+cd Python/viper/
+nvim
+cd ~/Desktop
+cd Frontend/
+cd arcblog/
+code .
+ultralist a +architect prototype Graphics Processing Unit Cascading Style Sheets(Gpux/GSS) @foundry
+cd ..
+cd Rust
+cargo new rgpu
+cd rgpu
+code .
+curl -sLf https://spacevim.org/install.sh | bash
+nvim
+curl -sLf https://spacevim.org/install.sh | bash
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ultralist complete 11
++cybergrove extract worthwile Roam content into Notesnook @editorial
+ultralist a +cybergrove extract worthwile Roam content into Notesnook @editorial
+cd ~/arcblog
+cd ..
+cd Frontend/
+cd arcblog/
+code .
+ultralist a +aptoperator explore minimalist apps on itch.io @toolsuite
+ultralist addnote -h
+ultralist an 21 https://itch.io/tools/tag-minimalist
+ultralist an 21 https://itch.io/tools/tag-tool
+ultralist list
+ultralist e 19 +cybergrove extract worthwhile Roam content into Notesnook @editorial<\n>
+ultralist a +cracked work on viper control system (perhaps using textile) @shipmentat
+ultralist a +cracked work on viper control system(perhaps using textile) @shipmentat
+ultralist list
+ultralist 7
+ultralist e 7 +cracked dockerize Convit @shipmentat
+ultralist list
+ultralist e 16 +cracked read NvChad docs @devtools
+ultralist complete 9
+ultralist list
+ultralist add +meta project types
+ultralist list --notes
+ultralist an 23 cracked(code) prolific(writing) architect(startup) certified aptoperator(tooling/workflow) cybergrove(digitalgarden)
+ultralist list --notes
+ultralist +meta context types
+ultralist a +meta context types
+ultralist an 24 devtools devlearning shipmentat(projects) blogging foundry(startup) jobhunt toolsuite(tooling/workflow) editorial(digitalgardening) devenvironment
+ultralist ar c
+ultralist list
+npm run dev
+cd ..
+cd Rust/
+cd rgpu/
+code .
+cd src/
+touch lib.rs
+mise
+chezmoi
+brew install chezmoi
+ultralist a set meeting with Tim tomorrow
+sudo apt-get install yadm
+cd ~/Desktop/
+yadm init
+yadm add ~/.bashrc
+cd ..
+ls
+cd bin
+ls
+cd ultralist
+whereis ultralist
+cd /usr/bin/ultralist
+cd ~/usr/bin/
+cd ..
+ls
+ls -a
+yadm add .todos.json
+nano .oh-my-posh.nu
+yadm add .oh-my-posh.nu
+cd .config
+ls
+cd nushell/
+ls
+cd ..
+yadm add nushell/
+cd Tape
+lss
+ls
+nano tape_140_backup.txt
+yadm add tape_140_backup.txt
+cd ..
+ls
+cd google-chrome/
+ls
+cd ..
+ls
+cd ..
+pwd
+ls
+ls -a
+cd ..
+ls -a
+cd linuxbrew/
+ls
+cd .linuxbrew/
+ls
+cd bin
+ls
+yadm -h
+yadm status
+cd ..
+cd
+ls
+cd snap/
+ls
+cd falkon
+ls
+cd common
+ls
+cd ..
+cd notesnook/
+ls
+cd
+cd ..
+ls
+cd ..
+ls
+cd var
+ls
+cd ..
+cd usr
+ls
+cd bin
+ls
+ls-half
+ls -half
+cd ..
+cd local/
+ls
+cd bin
+ls
+cd ..
+cd share/
+ls
+cd ..
+ls
+cd ..
+whereis ultralist
+cd ..
+ls
+yadm commit "Adding bulk of files"
+yadm commit
+git config user.name "arcnemesys"
+cd ~/Desktop/
+cd ..
+pwd
+cd ..
+yadm commit
+git config user.name "arcnemesys"
+which yadm
+ls -a
+cd axlrnzo/
+ls
+yadm commit
+git config user.name "arcnemesys"
+yadm help
+echo $HOME
+echo $env.HOME
+ls
+ls -a
+cd .config
+ls
+cd yadm/
+yadm help
+cd ..
+ls
+cd ..
+ls
+ls -a
+cd .local
+ls
+yadm help
+cd share/yadm/
+ls
+yadm commit
+git config user.name "arcnemesys"
+cd repo.git
+yadm commit
+git config user.name "arcnemesys"
+git config user.email "accelerenzo@proton.me"
+yadm branch
+yadm -h
+cd repo.git
+cd ..
+ls
+cd repo.git
+yadm rev-parse --abbrev-ref HEAD
+yadm branch
+yadm remote add origin git@github.com:arcnemesys/dothackfiles.git
+yadm push -u origin main
+yadm commit
+yadm commit "basic files"
+yadm status
+yadm add
+git rm --cached ../../../../.config/nushell/history.txt
+git rm --cached ../../../../.config/nushell/history.txt -f
+yadm status
+yadm push -u origin main
+yadm push -u origin master
+yadm branch -M main
+yadm push -u origin main
+yadm push -u origin main -f
+yadm rev-parse --abbrev-ref HEAD
+yadm checkout -b master
+yadm ls-remote --heads origin
+yadm push -u origin main
+yadm remote add origin git@github.com:arcnemesys/dothackfiles.git
+yadm push -u origin main
+yadm push -u origin main -f
+yadm push -u origin master
+yadm push -u origin master -f
+yadm init
+yadm init -f
+cd ..
+yadm init -f
+yadm status
+yadm add ~/.bashrc
+yadm commit
+ls
+cd yadm
+ls
+cd repo.git/
+yadm commit
+git config user.email "accelerenzo@proton.me"
+git config user.name "arcnemesys"
+yadm commit
+yadm remote add origin git@github.com:arcnemesys/dothackfiles.git
+yadm push -u origin master
+cd ~/Desktop/
+ls -a
+yadm add .todos.json
+cd ..
+ls -a
+yadm add .oh-my-posh.nu
+cd .config/
+l
+ls
+cd nushell/
+ls
+yadm add config.nu
+yadm add env.nu
+yadm add startup.nu
+cd ..
+cd Tape/
+ls
+yadm tape_140_backup.txt
+yadm add tape_140_backup.txt
+pwd
+cd ~/.local/share/yadm
+ls
+cd repo.git/
+yadm commit
+yadm push
+ultralist list
+cd ~/Desktop/
+cd Python/
+mkdir scalesmith
+cd scalesmith/
+python3 -m venv .venv
+sudo apt install python3-venv
+python3 -m venv .venv
+source .venv/bin/activate
+exit
+code .
+cd ~/Downloads/
+ls
+nu -h
+nano build_better.py
+cat build_better.py
+cd ..
+cd Frontend
+cd Desktop/
+cd Frontend/
+cd arcblog/
+git branch
+git status
+git add .
+git commit -m "pushing up edits"
+code .
+cd ..
+cd Rust
+cd convit/
+git branch
+code .
+cargo run
+cd ~/Desktop/Rust/convit
+cargo run
+cd ..
+cd Desktop/Rust/rgpu
+code .
+ultranotes
+alias -h
+clear
+ls
+ls -a
+ls
+ls -a
+yadm
+yadm add .xmodmap-axlrnzo-Satellite-C55-A
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+systemctl list-units --type=service --state=running
+sudo systemctl disable bluetooth.services
+sudo systemctl disable cups.service
+sudo systemctl disable bluetooth.service
+sudo apt install preload bleachbit
+sudo apt autoremove
+sudo apt install cpufrequtils htop iotop atop
+sudo cpufreq-set -g performance
+htop
+iotop
+sudo iotop
+atop
+sudo apt autoremove
+htop
+ls
+cd Desktop
+mkdir reclog
+cd reclog
+touch recoverylog.txt
+nano recoverylog.txt
+git init
+git add .
+git commit -m "init"
+git config --global user.name "arcnemesys"
+git config --global user.email "accelerenzo@proton.me"
+git commit -m "init"
+git remote add origin git@github.com:arcnemesys/Recovery-Log.git
+git push -u origin master
+ls
+cd ..
+l
+ls
+cd ..
+cd Applications/
+ls
+cd ..
+ls
+cd bin
+ls
+cd ..
+cd snap
+ls
+cd ..
+ls
+cd
+ls
+cd ..
+cd linuxbrew/.linuxbrew/
+ls
+cd Cellar
+ls
+cd ..
+ls
+cd Caskroom/
+ls
+cd ..
+cd Frameworks/
+ls
+cd ..
+cd Homebrew/
+ls
+cd bin
+ls
+cd ..
+cd package/
+ls
+cd ..
+ls
+cd bin
+ls
+cd ..
+ls
+cd lib
+ls
+cd ..
+ls
+cd .linuxbrew/
+ls
+cd sbin
+ls
+cd ..
+ls
+cd share
+ls
+cd ..
+cd 
+cd ..
+pwd
+ls
+cd ..
+ls
+cd usr
+ls
+cd bin
+ls
+dpkg --get-selections
+xinput --list
+xinput disable 9
+nano recoverylog.txt
+nano recoverylog.txt
+git add . 
+git commit -m "updating reclog"
+dpkg --get-selections | less
+apt list --installed
+cd ~/usr
+cd ~/home
+cd ..
+ls
+cd usr
+cd bin
+ls
+ls | drop nth 200
+ls | drop nth 3000
+cd 
+cd ~/Downloads/
+cd 
+ls ~/Downloads | get name | save ~/Desktop/downloads.txt
+cd Desktop/
+nano downloads.txt
+rm downloads.txt
+cd ..
+cd Downloads/
+ls | get name | save ~/Desktop/downloads.txt
+cd ~/Desktop/
+nano downloads.txt
+kate downloads.txt
+cd ..
+cd Documents/
+ls | get name | save ~/Desktop/documents.txt
+cd ~/Desktop/
+kate documents.txt
+cd ..
+cd Documents/
+ls
+cd Notesnook/
+ls
+cd backups/
+ls
+cd ..
+cd `Rust PDFs/`
+ls | get name | save ~/Desktop/rustpdfs.txt
+cd ..
+ls | where type = "Dir"
+ls -a | where type == dir
+cd `Python PDFs/`
+ls | get name | save ~/Desktop/pythonpdfs.txt
+cd ..
+cd `IaC PDFs/`
+ls | get name | save ~/Desktop/iacpdfs.txt
+cd ..
+cd `Golang PDFs/`
+ls | get name | save ~/Desktop/golangpdfs.txt
+cd ..
+cd `Docker PDFs/`
+alias
+scope aliases
+alias sfn = ls | get name | save
+def sfn [] { ls | get name | save }
+def sfn [location] { ls | get name | save $location }
+sfn ~/Desktop/dockerpdfs.txt
+cd ..
+ls | where type == dir
+cd `Clojure PDFs/`
+sfn ~/Desktop/clojurepdfs.txt
+cd ..
+cd `CUDA PDFs/`
+sfn ~/Desktop/cudapdfs.txt
+cd ..
+cd `C++ PDFs/`
+sfn ~/Desktop/cpppdfs.txt
+cd ..
+cd `C PDFs/`
+sfn ~/Desktop/clangpdfs.txt
+cd ..
+cd `Audio Processing & Programming PDFs/`
+sfn ~/Desktop/audioprogrammingpdfs.txt
+cd ..
+ls | where type == dir
+cd Desktop/
+ls | where type == file
+nano recoverylog.txt
+ls
+git add .
+git commit -m "updating reclog"
+git push
+open audioprogrammingpdfs.txt | save --append reclog/recoverylog.txt
+def atrlog [src] { open $src | save --append reclog/recoverylog.txt }
+atrlog clangpdfs.txt
+nano recoverylog.txt
+atrlog clojurepdfs.txt
+nano recoverylog.txt
+nano clojurepdfs.txt
+atrlog cpppdfs.txt
+atrlog cudapdfs.txt
+atrlog dockerpdfs.txt
+atrlog golangpdfs.txt
+atrlog iacpdfs.txt
+atrlog pythonpdfs.txt
+atrlog rustpdfs.txt
+nano recoverylog.txt
+git add .
+git commit -m "updating reclog"
+git push
+cd ..
+cd Downloads/
+ls
+dpkg --get-selections | less
+cd ~/Desktop/
+git clone git@github.com:arcnemesys/dothackfiles.git
+cd dothackfiles/
+ls
+ls -a
+cd Desktop/
+ls
+ls -a
+mv .todos.json ..
+cd ..
+ls -a
+mv .todos.json ..
+cd ..
+ultralist list
+ultralist
+rm .todos.json
+ultralist init
+nano .todos.json
+ultralist list
+nano .todos.json
+ultralist list
+pwd
+mv .todos.json todos.json
+ls
+kate todos.json
+code todos.json
+cd ~/.config/nushell/
+ls
+code history.txt
+cd..
+cd
+ultralist list
+cd ~/Desktop/
+ultralist list
+ultralist init
+ultralist a +meta context types
+alias ultralist = ul
+ul list
+ul
+ultralist an 1 devtools devlearning shipmentat(projects) blogging foundry(startup) jobhunt toolsuite(tooling/workflow) editorial(digitalgardening) devenvironment
+hide ul
+ultralist an 1 devtools devlearning shipmentat(projects) blogging foundry(startup) jobhunt toolsuite(tooling/workflow) editorial(digitalgardening) devenvironment
+cd ~/Desktop/
+ultralist list
+ultralist an 1 devtools devlearning shipmentat(projects) blogging foundry(startup) jobhunt toolsuite(tooling/workflow) editorial(digitalgardening) devenvironment
+ultralist add +meta project types
+ultralist an 2 cracked(code) prolific(writing) architect(startup) certified aptoperator(tooling/workflow) cybergrove(digitalgarden)
+ultralist a +cracked read NvChad docs @devtools
+ultralist a +cracked dockerize Convit @shipmentat
+ultralist a +cracked work on viper control system(perhaps using textile) @shipmentat
+ultralist a +cybergrove extract worthwhile Roam content into Notesnook @editorial
+ultralist a +aptoperator explore minimalist apps on itch.io @toolsuite
+ultralist an 7 https://itch.io/tools/tag-minimalist
+ultralist an 7 https://itch.io/tools/tag-tool
+ultralist a +architect prototype Graphics Processing Unit Cascading Style Sheets(Gpux/GSS) @foundry
+ultralist a +cracked work on python build manager exercises
+ultralist a +cracked continue reading Programming in Lua @devlearning
+ultralist a +cracked finish reading nushell docs @devtools
+ultralist a +cracked setup rust formatting for nvim @devtools
+ultralist a +cracked finish 100exercises from mainmatter @devlearning
+ultralist a +cracked dockerize Convit @devportfolio
+ultralist a +prolific write article about fuzz testing in Rust @blogging
+ultralist a +architect prototype ConvenCo, The Conventional Commit Company @foundry
+ultralist a +cracked design a cashier system in rust @blogging
+ultralist list
+cd Python/
+cd scalesmith/
+ls
+ultralist list
+cd ~/Desktop/
+ultralist list
+cd ~/Downloads/
+ls
+code .
+cd ~/Desktop/
+ultralist list
+ls | where {$it.name | path extension == "py" }
+ls | where name ends-with .py
+nano build_better.py
+kate test_build_better.py
+kate test_build_time.py
+cd Python/scalesmith/
+git remote add origin git@github.com:arcnemesys/scalesmith.git
+git push -u origin main
+cd ...
+cd Frontend/arcblog/
+code .
+cd ~/Desktop/
+npm i -g textlint
+which textlint
+cd src/
+ls
+clear
+ls
+cd blog/
+ls
+textlint ferrous-systems.md
+cd ..
+npm run dev
+code .
+npm run dev
+git add .
+git commit -m "revamped tools page styling"
+git push
+cd ~/Desktop/Python/viper/
+git status
+clear
+git status
+cd
+cd //axlrnzo-satellite-c55-a/home/axlrnzo/Desktop/Python/viper
+ls
+code .
+cd Desktop/
+ls -a
+yadm add .todos.json
+yadmrepo
+alias
+alias -h
+cd Python/scalesmith/
+git status
+git branch
+code .
+ul
+ultralist list
+ultralist add Refactor validator to use JSON Schema
+ultralist init
+ultralist add Refactor validator to use JSON Schema
+ultralist e 1 +checkingschema Refactor validator to use JSON Schema
+ultralist add +handlingfailure Modify manager so that configs can specify if rules should succeed or fail
+ultralist add +handlingfailure Modify manager so that if a rule fails other buildable targets are built
+python3
+sudo apt install minder
+whereis minder
+date --iso-8601=seconds
+date --help
+date now
+date humanize
+ultralist a +prolific write about parsing sfz files in nom @blogging
+ultralist e 9 +cracked work on phony targets for python build manager exercises
+ultralist list
+ultralist complete 9
+ultralist delete 14
+ultralist l project:cracked
+ultralist l project:cracked context:devlearning
+ultralist ar c
+ultralist list
+ultralist complete 5
+ultralist +cracked work through some of the John Crickett coding challenges @shipmentat
+ultralist a +cracked work through some of the John Crickett coding challenges @shipmentat
+cd Python/scalesmith/
+ull
+ultralist list
+ultralist a +cracked finish reading wgpu rust book @devlearning
+ultralist delete 4
+cd 
+cd Desktop/
+ultralist a +cracked finish reading wgpu rust book @devlearning
+ultralist a +aptoperator add yadm to arcnemesys tools
+ultralist list
+cd Rust/
+cd rgpu/
+code .
+cd ..
+cd practical-dsa/
+ls
+cd src
+ls
+cat deque.rs
+cd ~/Desktop
+ultralist list
+ls
+cd Rust/practical-dsa/
+nvim
+cd ..
+nvim
+cargo install ripgrep
+LAZYGIT_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest" | grep -Po '"tag_name": "v\K[^"]*')<\n>curl -Lo lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_${LAZYGIT_VERSION}_Linux_x86_64.tar.gz"<\n>tar xf lazygit.tar.gz lazygit<\n>sudo install lazygit /usr/local/bin
+LAZYGIT_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest" | grep -Po '"tag_name": "v\K[^"]*')
+whereis nvim
+nvim -v
+cd Python/
+cd ..
+ultralist list
+ultralist a +prolific write article about heavy and light programming language theory @blogging
+ultralist an 21 you can learn a heavy language and a light language simultaneously but two heavy languages is a bad idea and two light languages might not be challenging enough
+cd Python/
+cd ..
+cd Frontend/arcblog/
+code .
+nvim
+code .
+ultralist a +cybergrove add art to blog @artisanctuary
+cd
+ls
+cd Desktop/
+ultralist a +cybergrove add art to blog @artisanctuary
+cd Frontend/arcblog/
+cd ..
+cd Frontend/arcblog/
+git branch
+git checkout -b aexperiments
+ls
+cd ~/Desktop/Frontend/arcblog/
+code .
+xinput disable 9
+xinput enable 9
+xinput --list
+xinput disable 13
+xinput --list
+xinput disable 13
+cd ~/Desktop/Frontend/arcblog
+code .
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+ls
+cd Desktop/
+cd Python/
+cd viper/
+cd
+cd Desktop/
+cd Frontend/arcblog/
+git add .
+git commit -m "init" commit
+git commit -m "init commit"
+git push -u origin aexperiments
+git checkout main
+git merge aexperiments
+git add .
+git commit -m "adding section under posts for artistic percepts"
+git push
+code .
+cd ..
+cd Rust
+ls
+cd rust-advanced-testing-workshop/
+code .
+wr
+wr
+clear
+wr
+git add .
+git commit -m "committing intro + std_assertions"
+wr
+cd ..
+ls
+cd convit
+cargo run
+code .
+cd
+cd Desktop/
+ultralist a +ideative do something with tui-generis
+cd Rust
+cargo new curvit
+cd curvit
+cargo add cursive
+cd Desktop/
+cd Rust
+cd soundry/
+code .
+xinput --list
+xinput disable 13
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/
+ls
+cd Rust/
+ls
+cd ..
+cd Frontend/
+cd arcblog/
+cd ..
+pip install textual
+apt install python3-textual
+sudo apt install python3-textual
+sudo apt install python3-textual-dev
+pip install textual-dev
+cd Python/
+mkdir pyconv
+cd pyconv
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+xinput --lit
+xinput --list
+xinput disable 13
+cd Desktop/Frontend/arcblog/
+code .
+cd ..
+cd Rust
+cargo generate ratatui-org/templates component --name envelope
+cd envelope/
+cargo run
+code .
+cd ..
+cd Downloads/
+tar -xzf lapce-linux-amd64.tar.gz
+cd Lapce/
+ls
+cd
+cd Desktop/Python/viper
+code .
+cd ..
+cd Rust/soundry/
+code .
+cd ..
+cd rust-advanced-testing-workshop/
+git status
+git add .
+git commit -m "adding better assertions 2-4"
+git push
+cd ..
+cd ~/Desktop
+ultralist list
+cd Rust
+ls
+cargo new cashier
+cd cashier
+cd ..
+rm -rf -r envelope
+cargo generate ratatui-org/templates
+cd envelope/
+cargo run
+code .
+cargo run
+ls -a
+git add .
+git commit -m "rendering env vars and values"
+cd
+cd Desktop/
+ultralist list
+cd Rust
+ls
+mv convico convico-old
+ls
+cd ..
+cd Python/
+ls
+mv pyconv convit
+cd convit
+code .
+nvim
+cd
+cd Desktop/
+ultralist list --notes
+cd ..
+cd Downloads/
+unzip opuscule-linux-alpha.zip
+unzip oracles-linux-stable.zip
+clear
+unzip `oracles-linux-stable(1).zip`
+cd ..
+cd Desktop/
+cd Python/
+cd convit
+cd ..
+cd Rust
+cd envelope/
+git status
+git add .
+git commit -m "init commit"
+git remote add origin git@github.com:arcnemesys/envelope.git
+git push -u origin main
+nvim
+code .
+printenv
+cd ..
+printenv
+cd Rust/envelope/
+xinput --list
+xinput disable 13
+cd Desktop/Rust/envelope/
+code .
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Rust/envelope/
+cargo run
+cargo add tui-scrollview
+cargo run
+cd Desktop/Rust/envelope/
+cargo run
+cd
+cd Desktop/Python/convit
+code .
+ls
+cd src/
+ls
+python app.py
+python3 app.py
+cd ..
+cd Rust/
+ls
+cd soundry
+code .
+cd Desktop/Rust/soundry
+code .
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Rust/soundry
+ls
+cd src/
+ls
+git status
+git add opcode_types.rs
+git commit -m "Refactored enums to Sample Playback and Instrument Settings, started Voice Lifecyle"
+git push
+git push -u opcode_enums
+git push -u origin opcode_enums
+code .
+cd
+cd Desktop/Python/convit/
+code .
+cd src
+python3 app.py
+cd src ..
+cd ..
+source .venv/bin/activate
+sudo apt-get install xfce-power-manager
+sudo apt-get install xfce-battery-plugin
+sudo apt-get install xfce4-battery-plugin
+cd ..
+cd Frontend/
+cd arcblog/
+ls
+git checkout -b markdoc-integration
+npx astro add markdoc
+git checkout main
+git checkout -b diy-wiki
+cd Desktop/Rust/astatine/
+cargo run
+cd ..
+rm -rf -r astatine
+cargo new astatine
+cd astatine/
+cargo add iced reqwest
+code .
+cargo add rss
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+which lapce
+cd Desktop/Rust/astatine/
+cargo run
+code .
+clear
+cargo run
+cargo add tokio
+cd Desktop/Rust/astatine/
+code .
+cargo run
+code .
+sudo shutdown
+jrnl
+jrnl --help
+ultralist list
+ls
+cd Desktop/
+ultralist list
+ultralist complete 22
+ull
+ultralist list
+cd Python/
+ls
+cd ..
+cd Frontend/
+cd arcblog/
+cd
+cd Desktop/
+ultralist list
+ultralist complete 7
+cd Desktop/Rust/astatine
+cd Rust/astatine/
+nvim
+code .
+kate .
+cargo add thiserror
+cd ..
+cd soundry/
+code .
+cd ..
+cd Python/
+cd convit/
+git status
+ls -a
+git init
+git add .
+git commit -m "init commit"
+cd ..
+cd Frontend/
+cd arcblog/
+code .
+npm i @geist-ui/core
+cd ..
+cd arcblog/
+xinput --list
+xinput disable 13
+go
+cd
+cd Applications/
+ls
+shiori
+cd ..
+./shiori
+sudo ln -s /Applications/shiori /usr/local/bin/shiori
+shiori
+source ~/.bashrc
+nano ~/.bashrc
+source ~/.bashrc
+shiori
+cd ..
+cd Documents/
+shiori add shiori.html
+code . shiori.html
+shiori add shiori.html
+shiori --help
+shiori import shiori.html
+shiori --help
+shiori completion --help
+shiori check
+ultralist list
+cd ..
+cd Desktop/
+ultralist list
+cd Frontend/
+cd arcblog/
+code .
+cd
+nano
+ultralist --help
+ultralist ar c
+cd
+cd Desktop/
+ultralist ar c
+ultralist list
+cd Rust
+cd envelope/
+code .
+cargo run
+code .
+cargo run
+cd ..
+cd Frontend/
+cd technium/
+cd ..
+cd arcblog/
+code .
+sudo apt install tlp
+tlp
+sudo tlp start
+tlp-stat -s
+export CPU_ENERGY_PERF_POLICY_ON_AC=performance
+CPU_ENERGY_PERF_POLICY_ON_AC=performance
+tlp CPU_ENERGY_PERF_POLICY_ON_AC=performance
+cd
+cd Desktop/
+ultralist list
+cd ..
+cd Downloads/
+ls
+cd ..
+cd Desktop/
+echo $PATH
+echo $env.PATH
+cd Desktop/
+cd Frontend/
+cd arcblog/
+code .
+cd 
+cd Downloads/
+cd left-linux-64/
+./left
+cd ..
+cd Python/
+cd viper/
+code .
+cd
+cd Desktop/Frontend/arcblog/
+code .
+cd
+nano
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+xinput lit
+xinput list
+xinput disable 13
+cd Desktop/Python/convit
+code .
+cd src
+xinput list
+xinput disable 13
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Frontend/arcblog/
+cd
+cd Desktop/
+ultralist list
+curl https://zed.dev/install.sh | sh
+zed
+cd Desktop/
+cd Frontend/
+cd arcblog/
+xinput list
+xinput disable 13
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/
+cd Rust
+cd ..
+cd Frontend/arcblog/
+zed
+git branch
+git add .
+git commit -m "fleshed out wiki structure, working on content"
+git push
+cd
+cd Desktop/Python/
+cd viper/
+git add .
+git commit -m "finishing out parsing of commit like objects"
+git push
+cd ..
+cd Rust/
+cd envelope/
+cargo add env-logger
+cargo add terminal-size
+shiori -h
+shiori
+shiori print -h
+shiori print -s rust
+cargo add crossterm
+cargo run
+git add .
+git commit -m "basic env var functionality"
+git push
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+xinput disable 13
+cd Desktop/Frontend/arcblog/
+cd rgpu/
+ls -a
+git add .
+git commit -m "init commit"
+git remote add origin git@github.com:arcnemesys/rgpu.git
+git push -u origin master
+wasm-pack
+cargo install wasm-pack
+cd Desktop/Rust/rgpu/
+git add .
+git commit -m "refactoring into struct to handle state"
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Frontend/arcblog/
+cd ..
+cd Frontend/arcblog/
+zed -h
+cd ..
+zed /arcblog
+git add .
+git commit -m "Adding post about digital privacy"
+git status
+git commit -m "musings on digital privacy"
+git push
+git add .
+git commit -m "small typography change"
+git push
+cd
+cd Desktop/Rust/envelope/
+cargo run
+cd
+cd Desktop/Frontend/arcblog/
+git commit -m "adding image"
+git add .
+git commit -m "changing image via metadata"
+git commit -m "mucking around with site metadata"
+git push
+git add .
+git commit -m "deleting theme img"
+git push
+git add .
+git commit -m "testing metadata change"
+git push
+git add .
+git commit -m "becoming tired of the absurdity that front end development is, changing an image via metadata shouldn't require this much spelunking"
+git add .
+git commit -m "nuking everything related to the theme default image"
+git push
+git add .
+git commit -m "nuking references to Ogimage"
+git push
+git add .
+git commit -m "this is why I avoid frontend like the plague"
+git push
+git add .
+git commit -m "FE development is rightfully scorned, it is a trashfire programming experience"
+git push
+code .
+git add .
+git commit -m "maybe its the browser cache"
+git push
+git add .
+git commit -m "hopefully this works"
+git add .
+git commit -m "alright, if this doesn't work I might nuke the whole blog"
+git push
+git add .
+git commit -m "the issue seems to be the components"
+git push
+git commit -m "the issue seems to be the components"
+git commit -m "the issue seems to be the components" 
+git commit -m "the issue seems to be the components" --allow-empty
+git add .
+git push
+git add .
+git commit -m "the issue seems to be the components"
+git puh
+git push
+git add .
+git commit -m "trying this"
+git push
+git add .
+git commit -m "trying this now"
+git push
+git add .
+git commit -m "working on ui"
+git push
+git add .
+git commit -m "pushing up edits"
+git push
+cd Downloads/Apps/
+cd left-linux-64/
+./left
+ls
+./Lefty
+./Left
+chmod -h
+chmod --help
+flatpak
+cd ..
+7za x Moeditor-0.2.0-linux-x64.7z
+cd Moeditor-linux-x64/
+chmod +x Moeditor
+./Moeditor
+ls
+./Moeditor
+cd ..
+cd Apps/
+cd left-linux-64/
+./Left
+cd
+cd Desktop/
+ultralist list
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+xinput --lit
+xinput --list
+xinput disable 13
+./Left --no-sandbox
+shiori print -s audio
+ultralist list
+cd Desktop/
+ultralist list
+cd Frontend/arcblog
+l
+ls
+cd src/
+cd pages
+ls
+cd ..
+git status
+./Left --no-sandbox
+cd
+cd Desktop/
+cd Frontend/arcblog
+cd 
+cd Downloads/Apps/left-linux-64
+./Left --no-sandbox
+cd Desktop/
+cd Frontend/arcblog
+git status
+git commit -m "pushing up edits to articles"
+git push
+cd src/content/blog/
+git add digital-privacy-myth.md
+cd ..
+git add config.ts
+cd ..
+cd pages/
+git add society-and-culture.astro
+cd ..
+cd styles/
+git add tufte.css
+cd ..
+git commit -m "pushing up article and css edits"
+git push
+cd ..
+cd Downloads/Apps/left-linux-64/
+ls
+git add .
+git status
+clear
+git status
+cd
+cd Desktop/Frontend/arcblog/
+git status
+git restore --staged src/pages/a-rebel-religion-helicopters.astro
+git status
+git commit -m "tweaking content for deploy"
+git push
+./Left --no-sandbox
+cd Downloads/Apps/left-linux-64/
+cd 
+cd Desktop/Frontend/arcblog
+git status
+cd src/pages/
+git add musings.astro
+git add wind-the-clock-cycle-back.astro
+git commit -m "testing image frontmatter"
+cd ..
+git push
+xinput disable 13
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd Desktop/Frontend/arcblog
+git status
+git add src/pages/everything-is-different-now.astro
+git commit -m "testing Header content"
+git push
+git status
+cd src/pages
+git status everything-is-different-now.astro
+git add everything-is-different-now.astro
+git commit -m "testing html header"
+git push
+git add everything-is-different-now.astro
+git commit -m "fixing broken img"
+git push
+git add everything-is-different-now.astro
+git commit -m "fixing broken relative path"
+git push
+git add everything-is-different-now.astro
+git commit -m "minor link styling"
+git push
+ls
+clear
+git status
+git add artistry.astro
+git add everything-is-different-now.astro
+git add math-and-physics.astro
+git add programming.astro
+cd ..
+cd pages
+git add into-systems.astro
+git add on-audio.astro
+git on-mathematics.astro
+git add on-mathematics.astro
+git commit -m "adding musings to various categories + minor tweaks"
+git push
+git status
+git add math-and-physics.astro
+git add musings.astro
+git add programming.astro
+git commit -m "tidying up tocs"
+git push
+cd
+cd Downloads/
+cd Apps/left-linux-64/
+git status
+git add on-audio.astro
+git commit -m "adding post on audio"
+git push
+git status
+git add musings.astro
+git commit -m "polishing tocs"
+git push
+git add on-mathematics.astro
+git commit -m "small typo tweak"
+git push
+./Left --no-sandbox
+cd Downloads/
+cd Downloads
+cd Apps/left-linux-64/
+cd Desktop/Rust
+cd
+cd Desktop/Rust/
+ls
+cd astatine
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+cd envelope/
+cd ..
+cd envelope/
+zed
+cd ..
+cd astatine/
+zed
+cd Desktop/Rust/astatine
+code .
+zed
+cd
+cd Desktop/
+ultralist list
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+xinput --list
+xinput disable 13
+cd Desktop/
+ultralist list\
+ultralist list
+cd ..
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+./Left --no-sandbox
+cd Desktop/
+ultralist list
+ultralist list --notes
+cd
+cd Desktop/
+ultralist list --notes
+ultralist e 20 +aptoperator add yadm and shiori to arc<n> tools list
+cd ..
+cd Applications/
+ls
+cd
+ls
+cd bin
+ls
+cd ..
+ls
+cd linuxbrew/
+ls
+cd .linuxbrew/
+ls
+cd bin
+ls
+cd ..
+ls
+cd usr
+cd bin
+ls
+cd ..
+cd local/
+ls
+cd bin
+ls
+cd ..
+cd
+cd Desktop/Rust/astatine/
+cd
+cd Desktop
+ultralist list
+ls
+cd Rust
+ls
+cd astatine
+cargo run
+xinput --list
+xinput disable 10
+pnpm
+npm
+cd Desktop/
+cd Rust
+;ls
+ls
+cd ..
+cd rgpu/
+cd Rust/rgpu
+cd
+cd Downloads/Apps/left-linux-64/
+cd
+cd Desktop/
+ls
+ultralist list
+cd Rust
+cd envelope/
+zed
+cd
+cd Desktop/
+ultralist list
+ultralist add +cracked attempt to add rust support to pulumi @shipmentat
+ultralist add +cracked rewrite the pcl common module in rust @shipmentat
+ultralist c 3
+ultralist c 17
+ultralist list
+ultralist delete 4
+eval "$(oh-my-posh init nu --config $(brew --prefix oh-my-posh)/themes/easy-term.omp.json)"
+ultralist list
+ultralist arc
+ultralist ar c
+ultralist list
+cd ..
+cd Downloads/Apps/left-linux-64/
+man PATH
+cd Desktop
+cd Rust
+cd envelope/
+cargo run
+git add .
+git commit -m "feat: added section to view all contents of a users path variable"
+git push
+git remote add origin git@github.com:arcnemesys/envelope.git
+git push
+cargo run
+cd
+cd Desktop/
+ultralist list
+ultralist add push changes to envelope tomorrow
+ultralist list --notes
+ultralist add +meta context/project types, context: devtools devlearning shipmentat(projects) blogging foundry(startup) jobhunt toolsuite(tooling/workflow) editorial(digitalgardening) devenvironment, project: cracked(code) prolific(writing) architect(startup) certified aptoperator(tooling/workflow) cybergrove(digitalgarden)
+ultralist list
+ultralist e 28 +meta context/project types
+ultralist a -h
+ultralist an 28 devtools devlearning shipmentat(projects) blogging foundry(startup) jobhunt toolsuite(tooling/workflow) editorial(digitalgardening) devenvironment, cracked(code) prolific(writing) architect(startup) certified aptoperator(tooling/workflow) cybergrove(digitalgarden)
+ultralist list
+ultralist delete 1
+ultralist delete 2
+ultralist list
+cd Frontend/arcblog
+cd ..
+ultralist list 24 --notes
+tlp
+ultralist del 24
+ultralist delete 24
+ultralist list
+ultralist delete 20
+ultralist list
+cd ..
+cd Downloads/
+ls
+cd madproductivity/
+ls
+./MadProductivity.x86_64
+./MadProductivity.x86_64 --no-sandbox
+cd ..
+shiori
+shiori server
+cd ..
+cd Desktop/
+ls
+shiori -h
+shiori add falkonbookmarks.html
+shiori import falkonbookmarks.html
+cd Rust/
+mkdir deprecated
+ls
+mv -h
+ls
+mv rufus /deprecated
+sudo mv rufus /deprecated
+ls
+sudo mv curvit /deprecated
+sudo mv sifisys /deprecated
+sudo mv conv-cli /deprecated
+ls
+sudo mv tuijson /deprecated
+sudo mv serenity-weather /deprecated
+sudo mv clicks-coffee /deprecated
+sudo mv clicks_coffee /deprecated
+sudo mv convencom /deprecated
+ls
+sudo my soundry-tui /deprecated
+sudo mv soundry-tui /deprecated
+sudo mv simpletui /deprecated
+sudo mv libopus-sys /deprecated
+ls
+rm -rf -r ante-up/
+ls
+sudo mv convico-old /deprecated
+sudo mv json-tui /deprecated
+ls
+cd astatine/
+cd ..
+ultralist list
+cd Desktop/
+ultralist list
+./Left --no-sandbox
+MadProductivity
+cd Downloads/
+ls
+mv madproductivity /home/axlrnzo/bin
+ls
+cd ..
+cd Desktop/
+ultralist add +aptoperator move all desired apps to bin folder and create launchers @devtools
+cd ..
+cd Downloads/
+cd madproductivity/
+cd ..
+cd Desktop/
+ls
+cd Rust/
+ls
+cd astatine/
+cargo run
+cd ..
+cargo new dataglass
+cd dataglass/
+cd ..
+ls
+cd dataglass/
+cd ..
+cd envelope/
+nvim
+cd
+cd Downloads/Apps/left-linux-64/
+cd ..
+cd Downloads/
+ls
+chmof +x yata_v2.5.AppImage
+chmod +x yata_v2.5.AppImage
+./yata_v2.5.AppImage
+./Maddie-linux.exe
+chmod +x Maddie-linux.exe
+./Maddie-linux.exe
+./Left --no-sandbox
+cd ..
+cd `Sar Notes/`
+chmod +x `Sar Notes.x86_64`
+`./Sar Notes.x86_64`
+cd Downloads/
+tar -h
+tar --help
+tar -xf iisel_v1.1.0.tar
+tar -xf `iisel_v1.1.0(1).tar`
+ls
+chmod +x iisel.x86_64
+./iisel.x86_64
+xkeycaps
+cd ..
+cd Desktop/
+ultralist list
+cd Rust
+ls
+cd
+cd Desktop/
+ultralist add +cracked explore a production task automator with music based owl/rdf 
+cd Rust/dataglass/
+cd
+apt update && apt install pkg-config libglib2.0-dev libssl-dev libpango1.0-dev
+apt update and apt install pkg-config libglib2.0-dev libssl-dev libpango1.0-dev
+sudo apt update and upgrade
+sudo apt update ; apt upgrade
+apt install pkg-config libglib2.0-dev libssl-dev libpango1.0-dev
+sudo apt install pkg-config libglib2.0-dev libssl-dev libpango1.0-dev
+wasm-pack
+cargo install pax-cli
+rustup target add aarch64-apple-darwin x86_64-apple-darwin
+cd Downloads/Apps/left-linux-64/
+ls
+cd ..
+cd left-linux-64/
+ls -a
+cd ..
+cd Left
+ls
+clear
+ls
+ls
+cd Apps/left-linux-64/
+ls
+cd
+cd Desktop/
+cd Rust
+rm -rf -r dataglass/
+pax-cli new dataglass
+pax-cli new amixima
+nvm
+cd
+cd Desktop/
+ultralist list --notes
+ultralist add install xcode for pax @devtools
+ultralist an 20 https://www.baeldung.com/linux/xcode
+cd Rust/
+cd dataglass/
+code .
+cd
+./Left --no-sandbox
+cd Desktop/
+ultralist delete 4
+ultralist delete 27
+ultralist list
+reboot --help
+systemctl reboot
+cd Desktop/
+ultralist list
+ultralist delete 2
+cd Rust/
+cd dataglass/
+code .
+cd ..
+cd Downloads/Apps/left-linux-64/
+cd
+sudo apt install xfce4-screenshooter
+cd Downloads/
+ls
+cd `Sar Notes/`
+ls
+`./Sar Notes.x86_64`
+cd ..
+yazi
+lazygit
+ls -a
+cd ..
+cd Desktop/
+cd Rust/
+ls
+xkeycaps
+cd
+xmodmap .xmodmap-axlrnzo-Satellite-C55-A
+setxkbmap -print -verbose 10
+setxkbmap us
+setxkbmap -print -verbose 10
+sudo nano /etc/default/keyboard
+sudo update-initramfs -u
+setxbkmap us
+setxkbmap us
+xinput --list
+xinput disable 10
+jrnl --help
+./Left --no-sandbox
+echo $env.XDG_CONFIG_HOME
+jrnl --list
+sudo nano ~/.config/jrnl/jrnl.yaml
+jrnl
+brew install jrnl
+brew uninstall --help
+brew rm jrnl
+brew install jrnl
+sudo nano ~/.config/jrnl/jrnl.yaml
+jrnl --list
+jrnl prsnl -n 1
+setxkbmap us
+cd Downloads/
+ls
+cd fikir-linux/
+ls
+./fikir.x86_64 --no-sandbox
+cd ..
+cd pebble-linux/
+chmod +x pebble
+ls
+chmod +x Pebble.x86_64
+cd ..
+cd ArtistUnblocker/
+ls
+chmod +x ArtistUnblocker.exe
+./ArtistUnblocker.exe
+cd ..
+cd Twine-2.9.1-Linux-x64/
+ls
+chmod +x twine
+./twine
+./twine --no-sandbox
+cd ..
+cd ArtistUnblocker/
+ls
+cd ..
+cd pebble-linux/
+ls
+./Pebble.x86_64 --no-sandbox
+cd ..
+ls
+cd oracles/
+ls
+chmod +x game
+./game --no-sandbox
+cd ..
+cd Desktop/
+cd Rust/
+ls
+cd dataglass/
+ls
+xinput --list
+xinput disable 10
+cd Desktop
+cd Rust
+cd soundry/
+git status
+git branch
+git checkout main
+git diff opcode_enums
+cd ..
+cd Frontend/arcblog
+cd
+clear
+ls
+cd Desktop/
+ls
+cd Rust/
+ls
+cd ..
+cd Downloads/
+ls
+cd Apps/left-linux-64/
+./Left --no-sandbox
+cd ..
+cd Rust/
+ls
+history session
+history | last 5
+history | last 50
+history | where command =~ jrnl
+open $nu.history-path | lines | drop nth 3308 3253 | save -f $nu.history-path
+history | where command =~ jrnl
+cd ..
+cd Downloads/
+ls
+flatpak
+flatpak install org.famistudio.FamiStudio
+flatpak install org.famistudio.FamiStudio.flatpakref
+ls
+cd data_iisel_app_linuxbsd_x86_64/
+ls
+cd ..
+cd data/
+ls
+cd ..
+ls
+./iisel.x86_64 --no-sandbox
+cd pebble-linux/
+./Pebble.x86_64 --no-sandbox
+cd Desktop/
+cd Rust/
+cd soundry/
+lazygit
+cd ..
+cd envelope/
+lazygit
+cd
+rustup update stable
+cd Desktop/Rust/dataglass/
+pax-cli run --target=web
+rustc --version
+sudo apt install pkg-config libglib2.0-dev libssl-dev libpango1.0-dev
+touch pax
+nano pax
+./pax run --target=web
+chmod +x pax
+./pax run --target=web
+./pax run
+nano pax
+./pax run
+nano pax
+`./pax run --target=web`
+cd ..
+ultralist list
+ultralist delete 20
+cd ..
+cd Desktop/Rust/
+ls
+cd amixima
+setxkbmap us
+cat Cargo.toml
+cargo add fundsp
+cd
+cd Desktop/
+touch composEP1.txt
+mv composEP1.txt composeEP1.txt
+nano composeEP1.txt
+cd ..
+cd Downloads/
+ls
+cd ..
+jrnl prsnl The things I could do with just a little less weight on my shoulders
+clear
+cd Desktop/
+cd Rust/
+ls
+cargo generate --git https://github.com/ratatui-org/templates component --name amixima
+rm -rf -r amixima/
+cargo generate --git https://github.com/ratatui-org/templates component --name amixima
+cargo generate --git https://github.com/ratatui-org/templates component --name sonicode
+setxkbmap us
+cd sonicode/
+ls
+cd src/
+ls
+cd Rust/astatine/
+cd ..
+ls
+nvim
+-cd ..
+cd ..
+cd Downloads/Apps/left-linux-64/
+./Left --no-sandbox
+cd ..
+brew tap pr-pilot-ai/homebrew-tap
+brew install pr-pilot-cli
+cd ..
+cd Downloads/Apps/left-linux-64/
+cd ..
+cd Desktop/
+cd Rust/
+ls
+cargo new amixima
+cd amixima/
+cd ..
+rm -rf -r amixima/
+cargo generate --git https://github.com/ratatui-org/templates component --name amixima
+cd amixima/
+cargo add fundsp ratatui clap symphonia
+cd ..
+ls
+cd envelope/
+./Left --no-sandbox
+cd ..
+cd Desktop/
+mkdir ReferenceRepos
+cd ReferenceRepos/
+git clone https://github.com/adamweiner/abletime.git
+git clone https://github.com/thomashuss/patch1.git
+git clone https://github.com/dpayne/cli-visualizer.git
+cd Desktop/
+ultralist list
+cd Rust
+ls
+cd envelope/
+cd ..
+cd sonicode/
+cargo run
+cd  ..
+ls
+setxkbmap us
+cd envelope/
+nvim
+xinput disable 10
+cargo run
+cd Desktop/Rust/envelope/
+cargo run
+git add .
+git status
+ls
+cd ..
+ls
+cd Desktop/
+cd Python/
+ls
+mkdir amixima
+shiori --h
+history | where command =~ shiori
+shiori print -s python
+ls
+clear
+cd amixima/
+cd ..
+rm -rf -r amixima/
+mkdir AmiximaDAW
+cd AmiximaDAW/
+mkdir amixima
+ls
+touch app.py
+cd Desktop/
+cd Python/
+cd AmiximaDAW/
+cd ..
+ls
+cd convit/
+ls
+cd src/
+ls
+cat app.py
+nvim
+cd
+cd Desktop/
+cd ..
+cd Downloads/Apps/left-linux-64/
+cd ..
+./Left --no-sandbox
+cd ..
+sudo apt update ; apt upgrade
+ls -a
+cd .config/
+ls
+cd zed
+ls
+nano settings.json
+cd
+cd Downloads/monaspace-v1.101/
+ls
+cd monaspace-v1.101/
+ls
+cd util/
+chmod +x install_linux.sh
+./install_linux.sh
+cd ..
+bash util/install_linux.sh
+cd ~/.config/zed
+ls
+nano settings.json
+cd
+cd Desktop/Rust/envelope/
+cargo run
+ps
+ps | eLF
+ps --eLf
+ps -l
+ps -l | where name =~ 'cargo'
+ps -l | get nwlp
+ps -l | get nlwp
+ps -l | get lwp
+sys cpu
+ps -e
+ps --help
+cargo run
+git add .
+git commit -m "Added ability to set var value"
+git push
+cd ..
+cd envelope
+xrandr
+cd ..
+chmod +x Setz_64lin.x86_64
+./Setz_64lin.x86_64 --no-sandbox
+cd ..
+cd Desktop/Rust/envelope/
+cargo run
+git add .
+git commit -m "Added some better styling"
+git push
+cargo run
+cd ..
+ls
+cd envelope/
+cargo run
+cd ..
+cd 
+cd Downloads/
+cd Apps/left-linux-64/
+cd
+cd Downloads/
+ls -a
+cd Sample1/
+nano `All Through The Night.RPP`
+cd ..
+cd fpsdk_20210311/
+ls
+cd source/
+./Left --no-sandbox
+cd Downloads/Apps/left-linux-64/
+./Left --no-sandbox
+cd ..
+cd Desktop/Rust/envelope/
+cd
+cd Desktop/Frontend/arcblog
+jrnl prsnl Maybe if you had of shown even a fucking shred of financial discipline, we would not find ourselves in this situation. The budget is 1k and if you think my prerogative is to simply dole pieces of it out without considering things you have me fucked up. Lest I find myself without the medication I already share with you and falling further behind than I already have by getting caught up in your weird ass California excursion on the front end, or seeing to every domestic need because you have not the ability to see to the environment because your trauma is so squalid that what you consider acceptable living standards is incredibly low.
+jrnl prsnl Whether you like it or not, you threw all of your leverage away regarding anything prior, the moment you were unfaithful, and that was multiplied by me jumping out of the window for you to go to Indiana, and then Atlanta, and then the way I put up with your hygiene and have seen to keeping us from living in squalor since we moved here. Like it or not, the incontrovertable truth of the matter is you are indebted now. Not me. So fuck your attitude.  Good luck finding another man of equal quality who would do any of that. Or would have stuck around when shit hit the fan.
+cargo run
+xinput --list
+xinput disable 10
+cargo run
+cargo run;
+cargo run
+cd ..
+cd Downloads/
+cd 100rThemeMaker/
+ls
+chmod +x SageFlowerbed.x86_64
+cd ..
+cd 
+cd Downloads/Apps/left-linux-64/
+./SageFlowerbed.x86_64
+brew install broot
+npm run dev
+cd ..
+cd Rust/envelope/
+cargo run
+git add .
+git commit -m "Added path dir viewability and editability - still debugging saving"
+cd Downloads/Apps/left-linux-64/
+./Left --no-sandbox
+cd ..
+ls
+cd imageProcess-linux/
+ls
+chmod +x app
+./app
+chmod +x libffmpegsumo.so
+./app
+chmod +x +x nw.pak
+./app
+./appw --no-sandbox
+./app --no-sandbox
+brew install contour
+cd ..
+sudo dpkg -i contour-0.4.3.6442-ubuntu22.04-amd64.deb
+sudo snap install xmind
+jrnl prsnl I wonder if anyone else sees the app list on the phone as a set of portals into various life paths. At any given moment you can enter one of a number of them, but it all starts with the app you pick.
+cd ..
+cd Desktop/
+ultralist list
+cd Desktop/
+ultralist list
+sudo apt install ttf-dejavu
+cd ..
+cd Downloads/
+tar -xzf todool_0_4_0.tar.gz
+ls
+cd todool
+sudo apt-get install ca-certificates python3-urllib3 python3-cryptography python3-bs4
+apt --fix-broken install
+sudo apt --fix-broken install
+sudo apt-get install ca-certificates python3-urllib3 python3-cryptography python3-bs4
+pip3 install buku
+cargo install ripgrep
+cd ..
+cd .config/
+ls
+cd nvim/
+ls
+cd lua
+ls
+cd ..
+cd Desktop/
+ls
+cd Rust/
+ls
+setxkbmap us
+xinput --list
+xinput disable 13
+cd ..
+cd Downloads/
+sudo dpkg -i roam-research_0.0.22_amd64.deb
+cd Apps/left-linux-64/
+cd
+ls
+cd ..
+ls
+cd ..
+ls
+cd bin
+ls
+whereis roam
+whereis roam-research
+ls
+pwd
+which roam-research
+readlink -f roam-research
+rm roam-research
+unlink roam-research
+sudo unlink roam-research 
+cd
+ls
+cd ..
+ls
+cd ..
+ls
+whereis roam-research
+which roam-research
+ls
+cd opt/
+ls
+cd `Roam Research/`
+ls
+cd
+cd Downloads/
+sudo dpkg -i roam-research_0.0.22_amd64.deb
+whereis roam-research
+chmod +x affine-0.16.0-canary.9-canary-linux-x64.appimage
+cd ..
+cd Applications/
+ls
+whereis affine
+which affine
+whereis AFFiNE
+which AFFiNE
+sudo apt update
+sudo apt upgrade
+sudo reboot
+cd Downloads/AFFiNE-linux-x64/
+cd ..
+cd Apps/
+cd left-linux-64/
+cd
+cd Desktop/
+cd Rust
+cd envelope/
+sudo apt-get install xfce4-power-manager-plugins
+cd
+cd Desktop/
+cd Rust/
+cd envelope/
+code .
+fc-cache -rf
+fc-cache -fr
+find /usr/share/fonts -type f -exec sudo chmod 644 {} \;<\n>find ~/.fonts -type f -exec sudo chmod 644 {} \;<\n>sudo fc-cache -r -v
+whereis notesnook
+rm -rf ~/.cache/fontconfig 
+sudo fc-cache -r -v
+find ~/snap/notesnook/ -name 'fontconfig'
+setxkbmap us
+xkeycaps
+ls
+cd
+ls
+cd snap/
+ls
+cd notesnook/
+ls
+cd common/
+ls
+cd .cache
+ls
+rm fontconfig/
+rm -rf -r fontconfig/
+cd ..
+ls
+cd xmind/
+cd .cache
+ls
+cd common/
+cd .cache
+ls
+rm -rf -r fontconfig/
+cd
+cd Desktop/
+cd Rust/
+cd envelope/
+cd src/
+nvim app.rs
+cd ..
+git push
+cd
+cd ..
+ls
+ls -a
+cd linuxbrew/
+ls
+ls -a
+cd .linuxbrew/
+ls
+cd bin
+ls
+cd
+cd ..
+ls
+cd .config
+ls
+cd ~/.config
+cd nvim
+ls
+cd lua
+ls
+cd configs
+ls
+cd 
+cd plugins
+ls
+cd ..
+cd .config
+ls
+cd ~/.config/nvim
+ls
+cd lua
+ls
+cd plugins/
+ls
+cd ..
+cd configs/
+ls
+nvim lazy.lua
+cd
+nvim
+cd ~/.config/nvim
+ls
+cd lua
+cd configs
+ls
+nvim lazy.lua
+nvim
+nvim lazy.lua
+nvim
+cd 
+setxkbmap -print -verbose 10
+echo "setxkbmap us" >> ~/.profile
+cd ~/.config/nushell/
+ls
+nano startup.nu
+nano config.nu
+cd
+cd Desktop/Rust/envelope/
+cargo run
+w
+cargo run
+cd
+ls -a
+nano .bashrc
+echo $env
+cd ~/.config/nushell/
+ls
+cd
+cd Desktop/
+cd Rust
+ls
+cd Downloads/
+tar --zstd -xvf anki-24.06.3-linux-qt6.tar.zst
+nvim
+cd dataglass/
+nvim
+cd ..
+rm -rf -r dataglass/
+cargo new dataglass
+cd dataglass/
+cd
+cd Downloads/
+cd anki-24.06.3-linux-qt6/
+ls
+chmod +x anki
+chmod +x install.sh
+./install.sh
+sudo ./install.sh
+./install.sh
+nano README.md
+'sudo ./install.sh'
+sudo
+which notesnook
+cd
+ls
+cd snap/
+ls
+cd notesnook/
+ls
+cd common/
+ls
+ls -a
+cd .cache
+ls
+cd ..
+cd current/
+ls
+ls -a
+cd .themes/
+ls
+readlink -f .themes
+cd ..
+cd 82/
+cd data-dir
+ls
+ls 0a
+ls -a
+cd ..
+ls
+cd 82
+ls
+ls -a
+readlink -f .themes
+cd 82 .lolc
+cd .local
+ls
+cd share/
+ls
+readlink -f themes
+ls -a
+cd themes
+ls
+ls -a
+cd
+ls
+cd snap/
+ls
+cd notesnook/
+ls
+cd 81
+ls
+ls -a
+cd .config
+ls
+cd Notesnook/
+ls
+cd
+sudo su
+./Left --no-sandbox
+jrnl prsnl grow unfair net wealth vicious moral kite uniform clean color thunder crush
+nano anytypekey
+cd Downloads/
+sudo dpkg -i min-1.32.1-amd64.deb
+wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
+sudo add-apt-repository 'deb https://typora.io/linux ./'<\n><\n>
+sudo apt-get update
+sudo apt-get install typora
+sudo dpkg -i Yandex.deb
+ls
+sudo dpkg -i Yandex.deb
+nano epiphanybookmarks.html
+sudo apt install librewolf
+sudo apt autoremove
+sudo apt --fix-broken install
+pkill --help
+kill 7446
+kill 74446
+kill 74488
+kill -9 74488
+xinput --list
+xinput disable 13
+cd ..
+cd Documents/
+cd ..
+cd Downloads/
+tar xjf floorp-11.15.0.linux-x86_64.tar.bz2
+ls
+cd floorp/
+ls
+nano application.ini
+chmod +x floorp
+cd 
+cd Documents/Typora/
+ls
+mkdir Learning Bash
+touch Data-Entry-And-Manipulations.md
+nvim Data-Entry-And-Manipulations.md
+ls
+rm Bash/
+rm Learning/
+mkdir "Learning Bash"
+ls
+mv Data-Entry-And-Manipulations.md `/Learning Bash`
+mv Data-Entry-And-Manipulations.md `Learning Bash/`
+ls
+cd `Learning Bash/`
+ls
+cd ..
+touch Dataglass.md
+cd
+cd Desktop/Frontend/arcblog/
+cd src/
+ls
+cd pages/
+ls
+cd
+cd Documents/Typora/
+ls
+mkdir "Creative Writing"
+ls
+cd ..
+cd Desktop/Frontend/arcblog/
+git branch
+npm run dev
+cd Documents/Typora
+ls
+mkdir "C Programming"
+cd `C Programming/`
+mkdir "Modern C"
+cd `Modern C/`
+touch "The Principal Structure of a Program.md"
+ls
+touch "Level 1: Acquiantance.md"
+touch "Acquainitance: Everything Is About Control.md"
+which typora
+cd
+cd Desktop/Rust
+ls
+cd envelope/
+cargo add globalenv
+nvim
+cd
+cd Documents/
+cd Typora/
+ls
+mkdir NvChad
+cd NvChad/
+cd
+cd Desktop/Rust/
+cd envelope/
+cargo run
+cargo add env-perm
+cargo run
+cd
+ls
+ls -a
+nano .basshrc
+nano .bashrc
+cd
+cd Desktop/
+ultralist list
+cd Rust/
+ls
+cargo new convenco
+cd convenco/
+cd ..
+cd convit
+cargo run
+cd ..
+cd convenco/
+cd ..
+xinput disable 13
+setkbmap us
+setxkbmap us
+cd envelope/
+cd
+cd Desktop/Rust/convenco/
+cargo add ratatui git2 auth-git2
+cd ..
+cd convit/
+nvim
+ls
+cd src/
+nano app.rs
+nano main.rs
+cd ..
+cd
+cd Desktop/Rust
+rm -rf -r convenco
+cargo generate --git https://github.com/ratatui-org/templates simple --name convenco
+cd convenco/
+cargo add git2 auth-git2
+cargo run
+lazygit
+cargo run
+cd
+cd Documents/
+cd Typora/
+ls
+cd NvChad
+touch Overview.md
+cd
+cd .config/
+ls
+cd nvim/
+ls
+nano init.lua
+cd lua
+ls
+nano chadrc.lua
+cd plugins/
+ls
+cd ..
+cd configs/
+ls
+cd ..
+ls
+nano init.lua
+ls -a
+nvim
+cd lua/
+ls
+cd plugins/
+ls
+nano init.lua
+nvim init.lua
+ls
+cd ..
+cd configs/
+ls
+nano lspconfig.lua
+cd ..
+cd
+cd .config/
+cd nvim/
+code .
+cd
+cd Desktop/Rust
+cd envelope/
+nvim
+setxkbmap us
+cd 
+nano .profile
+nano .bashrc
+cd  .config
+cd nvim/
+code .
+nvim
+cd ..
+cd
+cd Desktop/
+cd Python/
+ls
+cd viper
+nvim
+cd ..
+which typora
+cd ~/usr/bin
+cd
+cd ..
+ls
+cd ..
+cd usr/
+bin
+cd bin/typora
+ls
+cd bin
+ls
+cd
+cd .config/
+cd Typora/
+cd themes/
+ls
+touch bronya.css
+nano bronya.css
+cd
+cd Desktop/
+cd Rust/
+cd dataglass/
+cat Cargo.toml
+ls
+cd src/
+ls
+cd ..
+cargo add feed_rs ratatui rodio
+git branch
+git remote add origin git@github.com:arcnemesys/dataglass.git
+git push -u origin master
+git add .
+git commit -m "init commit"
+git push -u origin master
+cargo run
+cd ..
+cd astatine/
+ls
+nvim
+cargo run
+cargo run
+cd
+cd .config/
+cd typora
+ls
+cd Typora/
+cd themes/
+ls
+rm typora-toothpaste.css
+ls
+rm typora-solarized-dark.css
+rm typora-solarized-light.css
+cargo run
+nvim
+cargo run
+cd ..
+ls
+cd convit/src
+ls
+nano lib.rs
+nano app.rs
+cd ..
+ls
+cd sonicode/
+cat Cargo.toml
+ls
+cd src/
+ls
+nano main.rs
+cd ..
+ls
+cd envelope/
+cd src
+ls
+nano lib.rs
+nano app.rs
+cd ..
+cd dataglass/
+nvim
+setxkbmap us
+nvim
+sudo shutdown -r now
+cd Desktop/
+cd ..
+lsa
+ls
+cd bin
+ls
+cd 
+cd ..
+ls
+ls -a
+cd linuxbrew/
+ls
+which zed
+cd
+cd .local
+cd bin
+cd zed
+ls
+cd
+cd ..
+ls
+cd bin
+ls
+cd zed
+cd ..
+ls
+cd usr
+ls
+cd bin
+ls
+cd
+cd .config/zed/
+ls
+nano settings.json
+code settings.json
+setxkbmap us
+cd
+cd Desktop/
+ls
+cd Rust/
+ls
+cd astatine/
+ls
+cd src
+ls
+nano main.rs
+cd
+cd Desktop/
+ultralist list
+cd Rust
+ls
+cd ..
+cd Documents/
+cd Typora/
+ls
+setxkbmap us
+mkdir "Programming In Lua"
+mkdir Ratatui
+mkdir "Software Design By Example"
+cd `Software Design By Example/`
+touch "A Build Manager.md"
+cd ..
+mkdir "GPU Programming"
+cd `GPU Programming/`
+mkdir "Numba For CUDA"
+ls
+cd `Numba For CUDA/`
+touch "Writing CUDA Kernels.md"
+ls
+cd ..
+mkdir "NVIDIA - CUDA Programming Guide"
+cd `NVIDIA - CUDA Programming Guide/`
+touch Introduction.md "Programming Model.md"
+cd ..
+mkdir "Kdenlive Manual"
+cd `Kdenlive Manual/`
+touch "Quick Start.md"
+cd ..
+mkdir "Ardour Manual"
+cd `Ardour Manual/`
+touch "Introduction To Ardour.md" "Ardour Basics.md" "Ardour Configuration.md"
+cd
+cd Desktop/
+cd Rust/
+cd dataglass/
+git status
+git add .
+git commit -m "adding boilerplate for simple structure"
+git push
+cd ..
+cd convenco/
+cd 
+cd Desktop/
+cd ..
+cd Documents/Typora/
+mkdir Articles
+ls
+mv RebelReligionRoadway.md /Articles
+ls
+mv --help
+ls
+cd Articles/
+cd ..
+sudo mv RebelReligionRoadway.md /Articles
+ls
+cd Articles/
+ls
+ls -a
+cd ..
+cd
+cd Desktop/
+ls
+cd Frontend/
+cd arcblog/
+ls
+cd pages
+cd src/
+cd pages/
+ls
+nano a-rebel-religion-roadway.astro
+cd
+cd Downloads/
+cd Apps/
+cd left-linux-64/
+./Left --no-sandbox
+cd Articles/
+touch "A Rebel, A Religion, A Roadway.md"
+cd 
+cd Downloads/
+tar -xzf pandoc-3.3-linux-amd64.tar.gz
+cd pandoc-3.3/
+ls
+cd bin
+ls
+cd ..
+cd share/
+ls
+cd ..
+chmod +x pandoc
+cd bin
+chmod +x pandoc
+cd ..
+rm -rf -r pandoc-3.3/
+sudo tar xvzf pandoc-3.3-linux-amd64.tar.gz --strip-components 1 - C 'usr/local'
+sudo tar xvzf pandoc-3.3-linux-amd64.tar.gz --strip-components 1 -C 'usr/local'
+tar zxvf pandoc-3.3-linux-amd64.tar.gz -C /usr/local
+sudo tar zxvf pandoc-3.3-linux-amd64.tar.gz -C /usr/local
+which pandox
+which pandoc
+whereis pandoc
+whereis pandoc-3.3
+cd
+cd ..
+cd usr/local/
+rm -rf -r pandoc-3.3/
+sudo rm -rf -r pandoc-3.3/
+cd
+brew install pandoc
+which tape
+whereis tape
+which Tape
+whereis Tape
+ls
+cd bin
+ls
+cd ..
+cd snap
+ls
+cd
+cd Downloads/
+ls
+cd Apps/
+ls
+cd
+ls
+cd ..
+ls
+cd linuxbrew/.linuxbrew/
+cd bin
+ls
+cd 
+cd ..
+ls
+cd ..
+ls
+cd usr/local/bin
+ls
+cd
+cd .config
+ls
+cd Tape/
+ls
+nano Preferences
+nano window-state-main.json
+cd `Local Storage/`
+ls
+whereis Tape
+cd
+cd Documents/
+ls
+cd ..
+which aeriform-tape
+cd Downloads/
+ls
+cd Apps/
+ls
+clear
+ls
+ls -a
+cd
+cd Downloads/Apps/
+ls 
+cd ..
+cd Applications/
+ls
+cd ..
+cd Downloads/
+ls -a
+cd Apps
+ls
+cd ..
+find / -name "Tape.txt" 2>/dev/null
+find ~/ -name "Tape.txt"
+find "Tape.txt"
+find --help
+cd
+cd Desktop/
+ultralist add consider ghost as a publishing platform
+git clone git@github.com:Autophagy/faereld.git
+cd faereld/
+virtualenv .venv -p python3
+cd ..
+cd Rust/
+cd convenco/
+cd ..
+cd Desktop/
+cd Rust/dataglass/
+ls
+cargo install alacritty
+alacritty
+cd
+ls
+ls -a
+sudo cp ~/.cargo/bin/alacritty /usr/local/bin
+cd .cargo/
+cd bin
+cd 
+cd ..
+cd usr/local/bin
+ls
+infocmp alacritty
+cd
+sudo tic -xe alacritty,alacritty-direct extra/alacritty.info
+ls
+cd ..
+cd usr/local/
+cd bin
+ls
+rm -rf -r alacritty
+sudo rm -rf -r alacritty 
+cargo uninstall alacritty
+rustup override set stable
+rustup update stable
+cd
+cd Applications/
+git clone https://github.com/alacritty/alacritty.git<\n>cd alacritty
+sudo apt install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+cd ..
+infocmp alacritty
+sudo tic -xe alacritty,alacritty-direct extra/alacritty.info
+cd alacritty/
+ls
+cd scripts/
+ls
+cd ..
+nano README.md
+cargo build --release
+infocmp alacritty
+sudo tic -xe alacritty,alacritty-direct extra/alacritty.info
+infocmp alacritty
+ls
+sudo target/release/alacritty /usr/local/bin
+sudo cp target/release/alacritty /usr/local/bin
+sudo cp extra/logo/alacritty-term.svg /usr/share/pixmaps/Alacritty.svg
+sudo desktop-file-install extra/linux/Alacritty.desktop
+sudo update-desktop-database
+nvim
+cd ..
+ls
+nano todos.json
+nvim todos.json
+ultralist list
+cd ..
+ultralist list
+ls -a
+cd Desktop/
+ls -a
+nano .todos.json
+nvim .todos.json
+code .todos.json
+cargo run
+ultralist init
+cd
+cd .config
+cd alacritty/
+code alacritty.toml
+rm todos.json
+setxkbmap us
+nano ~/.bashrc
+nano ~/.bash_profile
+nano etc/bash.bashrc
+nano etc/profile
+nano /etc/profile
+cd ..
+cd .config
+cd nushell/
+ls
+nano config.nu
+nano env.nu
+code history.txt
+cargo run
+cd
+cd Desktop/
+touch Nushellhistory.txt
+nano Nushellhistory.txt
+which nu
+cd
+cd .config/
+cd nushell/
+ls
+which nu
+cd
+cd linuxbrew
+ls
+cd ..
+ls
+cwd
+pwd
+ls
+cd linuxbrew/.linuxbrew/
+ls
+cd bin
+ls
+readlink -f nu
+cd ..
+cd Cellar/
+cd nushell/
+ls
+cd 0.94.1/
+ls
+cd bin
+ls
+which zsh
+whereis zsh
+cd
+flatpak install flathub org.wezfurlong.wezterm<\n>
+flatpak run org.wezfurlong.wezterm<\n>
+cd Desktop/
+cd Rust/dataglass
+cat Cargo.toml
+cargo add stream-download
+cd ..
+cd convenco/
+ls
+cd src/
+ls
+nvim main.rs
+nvim ui.rs
+cd
+cd Desktop/Rust/dataglass/
+cargo run
+code .
+cargo run
+sudo apt-get install byobu
+wget https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-stable-release_1.0.3-3_all.deb
+ls
+rm protonvpn-stable-release_1.0.3-3_all.deb
+cd
+cd Downloads/
+wget https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-stable-release_1.0.3-3_all.deb
+sudo dpkg -i ./protonvpn-stable-release_1.0.3-3_all.deb && sudo apt update
+sudo dpkg -i ./protonvpn-stable-release_1.0.3-3_all.deb
+sudo apt update
+cd ..
+ultralist list
+cd Desktop/
+ultralist list
+cd Rust/dataglass/
+cargo run
+cargo run
+cd ..
+brot
+broot
+br
+cargo run
+git add .
+git commit -m "implementing in memory cache for remote audio streaming"
+brew install amp
+cargo run
+amp
+cargo run
+cd ..
+ultralist list
+ultralist add +ideative micromin or minicro as names for a minimalist micro blogging tool @shipmentat
+ultralist add add linkidex to the list of tools asap
+xinput --list
+xinput disable 13
+cd Desktop/
+cd Rust/dataglass
+cd src
+touch theme.rs
+cd ..
+cargo run
+cd
+setxkbmap us
+vi
+cd .config
+cd alacritty/
+ls
+nano alacritty.toml
+brew install font-meslo-lg-nerd-font
+fc-list
+fc-list : family style
+which nu
+whereis nu
+which nushell
+whereis nushell
+which nu
+alacritty
+cd 
+cd ..
+ls
+cd opt/
+ls
+cd ..
+cd bin
+ls
+cd nushell
+cd nu
+echo $env
+cd ..
+ls
+cd usr/
+ls
+cd
+ls
+cd ..
+cd linuxbrew/.linuxbrew/
+wls
+ls
+cd Cellar/
+ls
+cd nushell/
+ls
+cd 0.94.1/
+ls
+cd bin
+ls
+pwd
+clear
+echo $env
+clear
+alacritty
+cd
+git add .
+git commit -m "taking borders out + starting with themeing"
+journalctl -xe | grep alacritty
+cd ..
+cd
+cd .config/
+ls
+cd terminator/
+ls
+nu
+$env.PKG_CONFIG_PATH
+echo $env.PKG_CONFIG_PATH
+clear
+git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
+cd ~/.config/kitty
+kitty -o allow_remote_control=yes -o enabled_layouts=tall
+ln -s ./kitty-themes/themes/Chalkboard.conf ~/.config/kitty/theme.conf
+ls
+code kitty.conf
+cat /etc/shells
+which nu
+clear
+whereis nu
+ls
+exit
+cargo run
+sudo apt-get install --reinstall libasound2t64 libasound2-data libasound2-plugin
+sudo apt-get update && sudo apt-get install libasound2-dev
+sudo apt-get update ; sudo apt-get install libasound2-dev
+sudo apt-get install libudev-dev
+sudo apt-get install libasound2-dev
+cd Desktop/Rust/
+cd dataglass/
+cargo run
+nano ~/.bashrc
+sudo shutdown -r now
+cd ~/.config/kitty
+nano kitty.conf
+cd Desktop/ReferenceRepos/tuifp/
+cargo install --locked --path .
+cd
+cd .fonts/
+ls
+cd 0
+ls
+cd ..
+cd 3
+ls
+cd Downloads/Apps/
+./Left --no-sandbox
+ls
+cd left-linux-64/
+ls
+./Left --no-sandbox
+cd Desktop/
+ls
+cd Rust/
+ls
+cd amixima/
+ls
+cd src/
+touch commands.rs
+cd ..
+nvim
+whereis nvim
+which nvim
+neovim
+exit
+eval "$(oh-my-posh init nu --config $(brew --prefix oh-my-posh)/themes/1_shell.omp.json)"
+:exit
+:quit
+quit
+:exit
+bash
+exit
+clear
+ls
+nano .tmux.conf
+cd ..
+ls
+nano .tmux.conf
+cd axlrnzo/
+nano ~/.tmux.conf
+ls -a
+nano ~/.tmux.conf
+nu
+ls
+cd Desktop/Zig/ziglings.org/
+cd ..
+nano ~/.tmux.conf
+ls
+nano ~/.tmux.conf
+cd .config/alacritty/
+nvim
+cd .config/alacritty/
+ls
+nvim
+ls
+nix
+ls
+nano ~/.tmux.conf
+tmux rename-session -t 0 ziglings
+tmux rename-session -t 0 ziglings
+tmux rename-session -t 0:nu ziglings
+l
+tmux new -s ziglings
+echo $TMUX
+echo $env.TMUX
+tmux rename-session -t 1 ziglings
+tmux rename-session ziglings
+cd Desktop/Zig/ziglings.org/
+tmux rename-session ziglings-builder
+ls
+cd Desktop/
+cd Desktop
+cd Zig/ziglings.org/
+zig build
+sbcl
+cd .config/nushell/
+ls
+which zig
+whereis zig
+nano config.nu
+source ~/.config/nushell/config.nu<\n>
+cd 
+cd Desktop/Zig/ziglings.org/
+zig build
+^zig build
+bash
+zig
+nvim
+zig
+cd .config/nushell/
+nano config.nu
+source ~/.config/nushell/config.nu<\n>
+zig
+cd 
+cd Desktop/Zig/ziglings.org/
+tmux rename-session ziglings
+cd Desktop/Zig/ziglings.org/
+zig build
+tmux rename-session ziglings
+cd Desktop/Zig/ziglings.org/
+tmux rename-session zig build
+tmux rename-session zig-buil
+tmux rename-session ziglings
+tmux rename-session zig-build
+tmux rename-session -t 1 zigbuild
+exit
+ls
+bash
+xinput --list
+xinput disable 12
+xinput enable 12
+xinput disable 132
+xinput disable 13
+sh <(curl -L https://nixos.org/nix/install) --daemon<\n>
+nix
+sh <(curl -L https://nixos.org/nix/install) --daemon
+cd Desktop/Zig/ziglings.org/
+cd Desktop/Zig/ziglings.org/
+zig build
+nano .tmux.conf
+bash
+nvim
+cd .config/alacritty/
+nano alacritty.toml
+exit
+bash
+cd .config/alacritty/
+nvim alacritty.toml
+ls
+nvim alacritty.toml
+cd
+cd Desktop/Zig/ziglings.org/
+cd ..
+cd
+cd .config/alacritty/
+nvim
+cd .config/alacritty/
+nvim
+cd .config/alacritty/
+nvim
+nano .tmux.conf
+cd .config/alacritty/
+nvim
+cd
+cd Desktop/Zig/ziglings.org/
+cd Desktop/Zig/ziglings.org/
+cd .config/alacritty/
+nvim
+cd ..
+nano .tmux.conf
+nvim
+cd .config/alacritty/
+nvim
+ls
+cd
+ls
+cd .config/alacritty/
+nvim
+cd ..
+nano .tmux.conf
+cd ..
+nano .tmux.conf
+ls
+nano .tmux.conf
+cd .config/alacritty/
+nvim
+ls
+cd ..
+ls
+cd ..
+ls
+cd Desktop/Zig/ziglings.org/
+cd .config/nvim/
+nvim
+nix
+cd .config/nushell/
+ls
+which nushell
+which nu
+whereis nix
+which nxi
+which nix
+nvim
+source ~/.config/nushell/config.nu<\n>
+nvim
+source ~/.config/nushell/config.nu<\n>
+cd .config/nushell/
+cd 
+cd .config/nvim/
+nvim
+cd
+bash
+cd .config/nushell/
+nvim
+cd ..
+cd .config/nvim
+cd nvim/
+nvim
+cd ..
+cd nushell/
+nvim
+source ~/.config/nushell/config.nu<\n>
+nix
+cd .config/nushell/
+nvim
+source ~/.config/nushell/config.nu<\n>
+nix
+nvim
+source ~/.config/nushell/config.nu<\n>
+nix
+nvim
+nix
+cd .config/nushell/
+nvim
+source ~/.config/nushell/config.nu<\n>
+nix
+nix-env
+nix-env -q
+clear
+nix-env -q
+nix-env -iA nixpkgs.hello
+hello
+cd
+nix-channel --add https://github.com/nix-community/home-manager/archive/master.tar.gz home-manager
+nix-channel --update
+nix-shell '<home-manager>' -A install
+touch configuration.nix
+home-manager news
+nvim configuration.nix
+cd .config/nvim
+nvim
+cd
+cd Desktop/Zig
+mkdir ProjectBasedZig
+cd ProjectBasedZig/
+touch introducing_zig.zig
+nvim
+cd
+cd Desktop/
+mkdir Nix
+cd Nix
+touch nix_basics.nix
+nix repl
+cd Desktop/Nix/
+echo 1 + 2 > file.nix
+nix-instantiate --eval file.nix
+ls
+echo 1 + 2 >> file.nix
+ls
+1 + 2 | save file.nix
+nix-instantiate --eval file.nix
+cd ..
+cd Frontend/
+ls
+mkdir arcwiki
+cd arcwiki/
+deno run -A https://lume.land/init.ts --theme=simple-wiki
+deno upgrade
+deno run -A https://lume.land/init.ts --theme=simple-wiki
+cd Desktop/Frontend/
+ls
+cd arcwiki/
+cd ..
+cd Nix/
+ls
+cd Desktop/Frontend/arcblog/
+cd ..
+cd arcwiki/
+cd Desktop/Frontend/arcwiki
+deno task cms
+deno task serve
+ls
+mkdir "Knowledge Base"
+nvim
+touch tools.md
+deno task serve
+nvim
+cd ..
+rm -rf -r arcwiki/
+git clone https://github.com/lumeland/theme-simple-wiki.git arcwiki
+cd arcwiki/
+cd Desktop/Frontend/arcwiki/
+nvim
+deno task serve
+cd Desktop/Frontend/arcwiki/
+nvim
+cd ..
+cd Zig/ziglings.org/
+cd Desktop/orchidmanor/
+ls
+pnpm dev
+bash
+deno task serve
+df
+grub-install
+df
+sudo umount /dev/sdb1
+df
+shutdown -r now
+ls
+touch arch_usb_install.sh
+nano arch_usb_install.sh
+chmod +x arch_usb_install.sh 
+df
+shutdown -r now
+df
+./arch_usb_install.sh
+sudo ./arch_usb_install.sh
+nano arch_usb_install.sh
+fup
+bash
+apt list --installed
+apt list --installed | save apps.txt
+nano apps.txt
+dpkg -l
+nvim apps.txt
+cat 
+cd ..
+cd usr/
+cat /share/applications/defaults.list
+ls
+cd share/
+ls
+cd 
+ls
+cd ls -a
+ls -h
+ls -a ~ | where type == dir
+cd .var
+ls
+cd app
+ls
+cd ..
+cd .config
+cd ..
+cd .config
+ls
+ls -a
+cd ..
+ls
+cd .local/
+ls
+cd bin
+ls
+cd ..
+ls
+cd share/
+ls
+cd ..
+ls
+cd state/
+ls
+cd ..
+ls
+ls -a
+cd bin
+ls
+cd ..
+ls
+ls -a
+cd ..
+ls
+cd linuxbrew/
+ls
+cd .linuxbrew/
+ls
+cd bin
+ls
+cd ..
+ls
+cd Caskroom/
+ls
+cd ..
+cd Cellar/
+ls
+cd ..
+ls
+cd share/
+ls
+cd ,,
+cd ..
+ls
+cd opt
+ls
+cd ..
+ls
+cd sbin
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr
+ls
+cd bin
+ls
+cd
+ls -a
+cd ..
+ls -a
+cd Applications/
+ls
+cd axlrnzo/
+ls
+cd Applications/
+ls
+cd ..
+ls
+Downloads
+ls
+cd Downloads/
+ls
+cd Apps/
+ls
+cd ..
+ls
+cd ..
+cd Desktop/
+mkdir backup_one
+cd backup_one/

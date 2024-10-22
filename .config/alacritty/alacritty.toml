@@ -1,0 +1,95 @@
+import = []
+
+live_config_reload = true
+
+[shell]
+program = "tmux"
+args = ["new-session", "-A", "-D", "-s", "main", "nu"]
+
+[window]
+decorations = "Full"
+startup_mode = "Windowed"
+
+[font]
+normal ={ family = "Monaspace Argon", style = "Regular"}
+size = 9
+[cursor]
+style = { shape = "Underline", blinking = "Always" }
+
+#[colors.primary]
+#background = '#1c2023'
+#foreground = '#c7ccd1'
+
+#[colors.cursor]
+#text = '#1c2023'
+#cursor = '#c7ccd1'
+
+#[colors.normal]
+#black   = '#1c2023'
+#red     = '#c7ae95'
+#green   = '#95c7ae'
+#yellow  = '#aec795'
+#blue    = '#ae95c7'
+#magenta = '#c795ae'
+#cyan    = '#95aec7'
+#white   = '#c7ccd1'
+
+#[colors.bright]
+#black   = '#747c84'
+#red     = '#c7ae95'
+#green   = '#95c7ae'
+#yellow  = '#aec795'
+#blue    = '#ae95c7'
+#magenta = '#c795ae'
+#cyan    = '#95aec7'
+#white   = '#f3f4f5'
+[colors.primary]
+background = '#1E1E1E'
+foreground = '#D0D6D9'
+
+[colors.cursor]
+text = '#1E1E1E'
+cursor = '#A7B5BE'
+
+[colors.normal]
+black = '#2C2C2C'
+green = '#8AB0A2'
+yellow = '#B0A78A'
+blue = '#7F8AB0'
+magenta = '#A28AB0'
+cyan = '#8AB0B0'
+white = '#D0D6D9'
+
+[colors.bright]
+black = '#4A4A4A'
+red = '#C29E93'
+green = '#9EC2B6'
+yellow = '#C2B99E'
+blue = '#939EC2'
+magenta = '#B69EC2'
+cyan = '#9EC2C2'
+white = '#E4EAED'
+
+[colors.selection]
+text = '#1E1E1E'
+background = '#A7B5BE'
+
+[colors.search.matches]
+foreground = '#1E1E1E'
+background = '#A7B5BE'
+
+[colors.search.focused_match]
+foreground = '#1E1E1E'
+background = '#B0A78A'
+
+[colors.hints.start]
+foreground = '#1E1E1E'
+background = '#B0A78A'
+
+[colors.hints.end]
+foreground = '#D0D6D9'
+background = '#2C2C2C'
+
+[colors.footer_bar]
+background = '#2C2C2C'
+foreground = '#D0D6D9'

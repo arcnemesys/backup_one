@@ -1,0 +1,558 @@
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 95x33
+debug: Resizing to 95x33
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 95x33
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 95x33
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 108x35
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 108x35
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 108x35
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 84x29
+debug: Resizing to 84x29
+debug: Setting language to
+debug: Resizing to 95x31
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 83x29
+debug: Resizing to 94x30
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 94x30
+debug: Resizing to 79x38
+debug: Resizing to 79x38
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 94x30
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 94x30
+info: Destroying
+info: Destroying
+debug: Resizing to 86x30
+debug: Resizing to 94x30
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 94x30
+info: Destroying
+debug: Resizing to 112x30
+debug: Resizing to 116x30
+debug: Resizing to 118x30
+debug: Resizing to 79x38
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 79x38
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x38
+debug: Resizing to 91x40
+debug: Resizing to 91x46
+debug: Resizing to 106x49
+debug: Resizing to 91x46
+debug: Resizing to 106x49
+debug: Resizing to 91x46
+debug: Setting language to
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x38
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 79x35
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 79x38
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 79x22
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 79x22
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 79x22
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x22
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x22
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 79x23
+debug: Resizing to 79x23
+info: Destroying
+debug: Setting language to
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 79x23
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x23
+debug: Resizing to 86x23
+debug: Resizing to 86x23
+debug: Resizing to 91x23
+debug: Resizing to 91x23
+debug: Resizing to 95x23
+debug: Resizing to 95x23
+debug: Resizing to 96x23
+debug: Resizing to 96x23
+debug: Resizing to 100x23
+debug: Resizing to 100x23
+debug: Resizing to 107x23
+debug: Resizing to 107x23
+debug: Resizing to 109x23
+debug: Resizing to 109x23
+debug: Resizing to 117x23
+debug: Resizing to 117x23
+debug: Resizing to 119x23
+debug: Resizing to 119x23
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 119x23
+info: Destroying
+info: Destroying
+debug: Setting language to
+debug: Resizing to 79x23
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x23
+info: Destroying
+debug: Resizing to 79x8
+debug: Resizing to 65x17
+debug: Resizing to 66x17
+debug: Resizing to 71x23
+debug: Resizing to 67x19
+debug: Resizing to 119x14
+debug: Resizing to 79x9
+debug: Resizing to 79x23
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 79x23
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x23
+debug: Resizing to 79x23
+debug: Resizing to 79x23
+info: Destroying
+debug: Setting language to
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-nQv1l5/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 79x23
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x23
+debug: Resizing to 75x23
+debug: Resizing to 79x23
+info: Destroying
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 79x23
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 82x25
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+debug: Resizing to 40x25
+debug: Resizing to 40x25
+info: Destroying
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+debug: Resizing to 82x12
+debug: Resizing to 82x12
+info: Destroying
+info: Destroying
+debug: Resizing to 82x12
+debug: Resizing to 82x12
+debug: Resizing to 74x12
+debug: Resizing to 74x12
+debug: Resizing to 66x12
+debug: Resizing to 66x12
+debug: Resizing to 54x12
+debug: Resizing to 54x12
+debug: Resizing to 55x12
+debug: Resizing to 55x12
+debug: Resizing to 58x12
+debug: Resizing to 58x12
+debug: Resizing to 82x12
+debug: Resizing to 82x12
+debug: Resizing to 58x8
+debug: Resizing to 58x8
+debug: Resizing to 82x12
+debug: Resizing to 82x12
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 82x8
+debug: Resizing to 82x22
+debug: Resizing to 82x2
+debug: Resizing to 82x15
+debug: Resizing to 82x9
+debug: Resizing to 82x10
+info: Destroying
+debug: Resizing to 82x25
+debug: Checking for updates through fallback method.
+info: No updates
+debug: Resizing to 77x25
+debug: Resizing to 78x25
+debug: Resizing to 80x25
+debug: Resizing to 85x25
+debug: Resizing to 82x25
+debug: Resizing to 81x25
+debug: Resizing to 80x25
+debug: Resizing to 78x25
+debug: Resizing to 79x25
+debug: Resizing to 78x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 78x25
+info: Destroying
+debug: Resizing to 87x25
+debug: Resizing to 78x25
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 78x25
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-MiNVat/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Resizing to 82x25
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-vNFpTg/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 82x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+info: Destroying
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+debug: Resizing to 80x25
+debug: Resizing to 80x25
+debug: Resizing to 70x25
+debug: Resizing to 70x25
+debug: Resizing to 81x25
+debug: Resizing to 81x25
+debug: Resizing to 85x25
+debug: Resizing to 85x25
+debug: Resizing to 91x25
+debug: Resizing to 91x25
+debug: Resizing to 82x25
+debug: Resizing to 82x25
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-Xj4Y46/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 82x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+info: Destroying
+debug: Resizing to 78x25
+debug: Resizing to 82x25
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-wUzBAk/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 82x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-aaHBLA/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Resizing to 82x25
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-Xirvu8/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 82x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+debug: Resizing to 168x25
+debug: Resizing to 168x25
+debug: Resizing to 82x25
+debug: Resizing to 82x25
+info: Destroying
+info: Destroying
+debug: Resizing to 159x25
+debug: Resizing to 168x25
+debug: Resizing to 82x25
+debug: Resizing to 82x25
+debug: Resizing to 94x27
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 168x25
+debug: Resizing to 82x16
+debug: Resizing to 82x16
+debug: Resizing to 168x25
+debug: Resizing to 168x25
+debug: Setting language to
+debug: Resizing to 83x25
+debug: Resizing to 82x25
+debug: Resizing to 82x25
+info: Destroying
+debug: Resizing to 166x25
+debug: Resizing to 168x25
+debug: Resizing to 82x25
+debug: Resizing to 82x25
+debug: Resizing to 94x27
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-nqbeZ4/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Resizing to 82x25
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-xzxNqy/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 82x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x25
+debug: Resizing to 78x25
+debug: Resizing to 82x25
+debug: Resizing to 168x25
+debug: Resizing to 168x25
+debug: Resizing to 168x25
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-6wmHFB/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 168x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 168x25
+info: Destroying
+debug: Resizing to 82x25
+debug: Resizing to 168x25
+info: Destroying
+debug: Resizing to 159x25
+debug: Resizing to 168x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 168x25
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-BnM4Oo/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 168x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 168x25
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-aghM6n/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 168x25
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 168x25
+debug: Resizing to 159x25
+debug: Resizing to 168x25
+info: Destroying
+info: Destroying
+debug: Resizing to 159x25
+debug: Resizing to 168x25
+info: Destroying
+debug: Resizing to 82x16
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-iN3EN4/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Resizing to 82x16
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x16
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-4cRJAQ/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Resizing to 82x16
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x16
+info: Destroying
+debug: Resizing to 78x16
+debug: Resizing to 82x16
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-Ncw8gI/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 82x16
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x16
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-XRqWxg/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Resizing to 78x16
+debug: Resizing to 82x16
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x16
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/tmp/.mount_tabby-ACAEpw/tabby","_":[],"sandbox":false},"cwd":"/home/axlrnzo","secondInstance":false}
+debug: Resizing to 78x16
+debug: Resizing to 82x16
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 82x16
+info: Destroying
+info: Destroying

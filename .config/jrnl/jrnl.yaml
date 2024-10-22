@@ -1,0 +1,21 @@
+colors:
+  body: none
+  date: black
+  tags: yellow
+  title: cyan
+default_hour: 9
+default_minute: 0
+editor: ''
+encrypt: true
+highlight: true
+indent_character: '|'
+journals:
+  default:
+    journal: /home/axlrnzo/.local/share/jrnl/journal.txt
+  prsnl:
+    journal: /home/axlrnzo/.local/share/jrnl/prsnl.txt
+linewrap: 79
+tagsymbols: '#@'
+template: false
+timeformat: '%F %r'
+version: v4.1
